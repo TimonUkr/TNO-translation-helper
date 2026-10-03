@@ -1,5 +1,12 @@
 {
   "files": {
+    "TNO_victory_points_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "english/JUNO_characters_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-03T12:15:51",
@@ -3697,8 +3704,370 @@
   },
   "glossary": [],
   "group_assign": {},
-  "history": {},
-  "keys": {},
+  "history": {
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_12764_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15768_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15769_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15771_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15772_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15774_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15774_egy_eng": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_uar": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_uar_eng": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15778_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15785_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15789_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15791_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15792_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15793_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15795_egy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_1914_sud": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-03T23:10:12",
+        "to": "translated"
+      }
+    ]
+  },
+  "keys": {
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_12764_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "52f9e8a0cd96",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f030c585910e"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15768_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6ae04049c589",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "97a12c77955d"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15769_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "eefbe2518cb7",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "574cedb5be81"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15771_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d132f083c058",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6c9659079a50"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15772_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "892565c1f0a0",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "589cebbcddab"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15774_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "791d01a5acc2",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da53805a8a8d"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15774_egy_eng": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bf4ceca5763f",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "db2764eb41a5"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b25df8a8f23e",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "182b5eb945b6"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_uar": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "aa558d59dff5",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9c06fe792c0f"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15775_uar_eng": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e1f96fd09fdb",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "edb4d0c966be"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15778_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ea6c479ba08d",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3b77b631c706"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15785_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6f72a846e2c7",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9d235b647ae1"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15789_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d68e7bfa5803",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "70e0668d158f"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15791_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c54a74f88735",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c1662c1cff5d"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15792_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3abca7ba884c",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "bff406ee3e9a"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15793_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "68162ce10232",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9311a9c25b52"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_15795_egy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "991d252b8559",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "26a92d47e500"
+    },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_1914_sud": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "86cb9df28f32",
+      "last_modified": "2026-10-03T23:10:12",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "95434e2dc2fb"
+    }
+  },
   "notes": {},
   "people": [
     {
