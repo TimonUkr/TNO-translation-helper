@@ -995,21 +995,31 @@
       "translators": []
     },
     "english/TNO_Germany_Base_l_english.yml": {
-      "editors": [],
+      "editors": [
+        "person_001",
+        "person_002",
+        "person_004"
+      ],
       "last_checked": "2026-10-03T12:17:32",
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
     },
     "english/TNO_Germany_Bormann_Kartenhaus_l_english.yml": {
-      "editors": [],
+      "editors": [
+        "person_001",
+        "person_002",
+        "person_004"
+      ],
       "last_checked": "2026-10-03T12:17:32",
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
     },
     "english/TNO_Germany_Bormann_l_english.yml": {
-      "editors": [],
+      "editors": [
+        "person_002"
+      ],
       "last_checked": "2026-10-03T12:17:32",
       "manual_status": null,
       "technical_state": "unknown",
