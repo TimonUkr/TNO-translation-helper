@@ -1003,7 +1003,9 @@
       "last_checked": "2026-10-03T12:15:52",
       "manual_status": null,
       "technical_state": "unknown",
-      "translators": []
+      "translators": [
+        "person_002"
+      ]
     },
     "english/TNO_Germany_Bormann_Kartenhaus_l_english.yml": {
       "editors": [
