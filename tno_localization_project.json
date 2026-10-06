@@ -7,6 +7,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "TNO_Germany_Base_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_victory_points_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -3317,6 +3324,8 @@
       "translators": []
     },
     "english/bba_bop_l_english.yml": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
       "editors": [],
       "last_checked": "2026-10-03T12:17:32",
       "manual_status": null,
@@ -3712,6 +3721,26 @@
   "glossary": [],
   "group_assign": {},
   "history": {
+    "TNO_Free_Aviators_l_english.yml:FAV.3.a": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:50:43",
+        "to": "review"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV.3.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:50:36",
+        "to": "translated"
+      }
+    ],
     "TNO_Free_Aviators_l_english.yml:FAV_deployment_category_desc": [
       {
         "action": "переклад виправлено",
@@ -3719,6 +3748,196 @@
         "from": "translated",
         "note": "",
         "t": "2026-10-06T10:28:50",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_Albert_Speer_eco_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:56:58",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_GCW_mechanic_category_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:56:58",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_cancermann": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_closing": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_II_antimil": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_II_antiref": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_I_antimil": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_I_antiref": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_grossraum": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_orpo": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_1": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_2": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_3": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_set_antimil_dis_I": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_set_antiref_dis_I": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_setup": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_sphere_trading": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_superevents": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:44:15",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:MILITARY_HANS_SPEIDEL_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T10:56:58",
         "to": "translated"
       }
     ],
@@ -5201,9 +5420,279 @@
         "t": "2026-10-06T00:26:08",
         "to": "translated"
       }
+    ],
+    "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_TOOLTIP": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_BUTTON": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:02",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_CHANGE_RATE_DAILY": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_CHANGE_RATE_WEEKLY": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_LEFT_SIDE_TOOLTIP": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_LEVELS": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_PERCENTAGE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RANGE_ACTIVATION_EFFECT": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RANGE_DEACTIVATION_EFFECT": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RANGE_DESC": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RANGE_MODIFIER": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RANGE_RULE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_RIGHT_SIDE_TOOLTIP": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_STATIC_MODIFIER": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_TAB_BUTTON_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP_STABLE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP_TREND": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BoP_Tab_Espionage": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BoP_Tab_GlobalConflicts": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:BoP_Tab_SACW": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:TNO_AntarcticAfairs_GUI_Title": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:TNO_BoP_AddTab_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "english/bba_bop_l_english.yml:TNO_GlobalConflicts_GUI_Title": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
     ]
   },
   "keys": {
+    "TNO_Free_Aviators_l_english.yml:FAV.3.a": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "a9fab73c0718",
+      "last_modified": "2026-10-06T12:50:43",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5758de01c81c"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV.3.desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "219c978c4c8c",
+      "last_modified": "2026-10-06T12:50:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7bce140c50bc"
+    },
     "TNO_Free_Aviators_l_english.yml:FAV_deployment_category_desc": {
       "author": "person_002",
       "editor": null,
@@ -5213,6 +5702,196 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "cdeeff6fcee0"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_Albert_Speer_eco_desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "17df26e64c73",
+      "last_modified": "2026-10-06T10:56:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f98ba9dc4da7"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_GCW_mechanic_category_desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e5fdca819f0a",
+      "last_modified": "2026-10-06T10:56:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8d713e6a069d"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_cancermann": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "24069ab9d5a1",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "74c6a2c4f6d9"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_closing": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4a796aa546de",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0f1cad25703d"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_II_antimil": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "2a8fd8811617",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ca52e1da8d79"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_II_antiref": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "96237637bc70",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6a04133c0f62"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_I_antimil": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "a9f6ce11b54b",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "729b129c84e4"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_dismantlement_I_antiref": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "41ab161fe308",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "eebfec2bbf5c"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_grossraum": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d41b0f97c7d4",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "04b8efdfd66e"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_orpo": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "24fd1be38114",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "27ebeb8f9835"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_1": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "5b02c3a2c6e7",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fa76c9321c99"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_2": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "356a6cafbc8f",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b5abdf22e4fc"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_phase_3": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "cdeec3c45d73",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1a8956e2ab67"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_set_antimil_dis_I": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "5396c10e6b49",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0e3ebb95f66d"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_set_antiref_dis_I": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "69fb797ec90a",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "03355efc1e8b"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_setup": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "40be0590ffba",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6a106590a4ad"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_sphere_trading": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "2e0fa7d21be3",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "18a947ae22da"
+    },
+    "TNO_Germany_Base_l_english.yml:GER_bormann_debug_superevents": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f5b382eb65c9",
+      "last_modified": "2026-10-06T10:44:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3c468f0b315c"
+    },
+    "TNO_Germany_Base_l_english.yml:MILITARY_HANS_SPEIDEL_DESC": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "3957baa009aa",
+      "last_modified": "2026-10-06T10:56:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "06fdc29e14ab"
     },
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10071_cog": {
       "author": "person_001",
@@ -6693,6 +7372,306 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "676d800547f4"
+    },
+    "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "b8f5b49ffc3b",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b8f5b49ffc3b"
+    },
+    "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_TOOLTIP": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "e3dc3e1d4603",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e3dc3e1d4603"
+    },
+    "english/bba_bop_l_english.yml:BOP_BUTTON": {
+      "approved_at": "2026-10-06T12:52:02",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "9c2e0e32c05b",
+      "last_modified": "2026-10-06T12:52:02",
+      "last_reviewed": "2026-10-06T12:52:02",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "6a0129f3ddb7"
+    },
+    "english/bba_bop_l_english.yml:BOP_CHANGE_RATE_DAILY": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "ad401f348406",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "9677e81eae9e"
+    },
+    "english/bba_bop_l_english.yml:BOP_CHANGE_RATE_WEEKLY": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "72c592b16a44",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "9cd497d3cc06"
+    },
+    "english/bba_bop_l_english.yml:BOP_LEFT_SIDE_TOOLTIP": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "a2d04026c801",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a2d04026c801"
+    },
+    "english/bba_bop_l_english.yml:BOP_LEVELS": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "cf5849c0a579",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "cf5849c0a579"
+    },
+    "english/bba_bop_l_english.yml:BOP_PERCENTAGE": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "c9fce24e79a0",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c9fce24e79a0"
+    },
+    "english/bba_bop_l_english.yml:BOP_RANGE_ACTIVATION_EFFECT": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "fdedae823899",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "7dc61ac58ac9"
+    },
+    "english/bba_bop_l_english.yml:BOP_RANGE_DEACTIVATION_EFFECT": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "6eef6a84b76c",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "dc280ec3a4e1"
+    },
+    "english/bba_bop_l_english.yml:BOP_RANGE_DESC": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "c65326d5af47",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5dc943f23af0"
+    },
+    "english/bba_bop_l_english.yml:BOP_RANGE_MODIFIER": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "7fb606e6730d",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ec2229373a78"
+    },
+    "english/bba_bop_l_english.yml:BOP_RANGE_RULE": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "6a0a5cdd96bc",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2c4a72062632"
+    },
+    "english/bba_bop_l_english.yml:BOP_RIGHT_SIDE_TOOLTIP": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "b11026f09a2e",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b11026f09a2e"
+    },
+    "english/bba_bop_l_english.yml:BOP_STATIC_MODIFIER": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "8e242723a29e",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "8e242723a29e"
+    },
+    "english/bba_bop_l_english.yml:BOP_TAB_BUTTON_tt": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "b06fea6789d8",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b06fea6789d8"
+    },
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "bed58a1617c5",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "6af65395a26f"
+    },
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP_STABLE": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "da39a3ee5e6b",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "da39a3ee5e6b"
+    },
+    "english/bba_bop_l_english.yml:BOP_TOOLTIP_TREND": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "da39a3ee5e6b",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "da39a3ee5e6b"
+    },
+    "english/bba_bop_l_english.yml:BoP_Tab_Espionage": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "c698f940a03e",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "83579d8a6fd0"
+    },
+    "english/bba_bop_l_english.yml:BoP_Tab_GlobalConflicts": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "2cab73a998a1",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "70982b24498c"
+    },
+    "english/bba_bop_l_english.yml:BoP_Tab_SACW": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "3d28adcccad9",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "1f167804505f"
+    },
+    "english/bba_bop_l_english.yml:TNO_AntarcticAfairs_GUI_Title": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "35b6ff83ccde",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "daf7d3499cb6"
+    },
+    "english/bba_bop_l_english.yml:TNO_BoP_AddTab_tt": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "21711a108e74",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "0e76f12e6db9"
+    },
+    "english/bba_bop_l_english.yml:TNO_GlobalConflicts_GUI_Title": {
+      "approved_at": "2026-10-06T12:52:07",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "4a45ab4879ae",
+      "last_modified": "2026-10-06T12:52:07",
+      "last_reviewed": "2026-10-06T12:52:07",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "fe70bde310d2"
     }
   },
   "notes": {},
