@@ -25,6 +25,13 @@
         "person_001"
       ]
     },
+    "admin_title_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "bba_bop_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
@@ -14744,6 +14751,152 @@
         "to": "translated"
       }
     ],
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_blank": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-24T18:43:31",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:adjust_sub_admin_title_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_1_admin_region_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:25:32",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_1_assoc_region_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:25:28",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_2_admin_region_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:25:36",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_2_assoc_region_tt": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:25:31",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_admin_title_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:24:39",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:24:41",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_mapmode_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:20:57",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-24T15:20:59",
+        "to": "approved"
+      }
+    ],
+    "admin_title_l_english.yml:admin_title_textbox_sub_admin_title_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:clear_sub_admin_title_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:sub_admin_title_text_box_2_subdivisions_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:sub_admin_title_text_box_3_subdivisions_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:sub_admin_title_text_box_4_subdivisions_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-25T01:18:36",
+        "to": "translated"
+      }
+    ],
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
       {
         "action": "затверджено",
@@ -14912,6 +15065,22 @@
         "note": "",
         "t": "2026-10-10T22:32:37",
         "to": "approved"
+      },
+      {
+        "action": "переклад змінено після «Затверджено»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "approved",
+        "note": "",
+        "t": "2026-10-24T15:13:51",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-24T15:13:56",
+        "to": "approved"
       }
     ],
     "bba_bop_l_english.yml:BOP_TOOLTIP_STABLE": [
@@ -14981,6 +15150,22 @@
         "from": "translated",
         "note": "",
         "t": "2026-10-10T22:32:46",
+        "to": "approved"
+      },
+      {
+        "action": "переклад змінено після «Затверджено»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "approved",
+        "note": "",
+        "t": "2026-10-24T15:13:51",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-24T15:13:59",
         "to": "approved"
       }
     ],
@@ -26254,6 +26439,150 @@
       "translator": null,
       "ua_hash": "7538f63e3ee8"
     },
+    "TNO_victory_points_l_english.yml:VICTORY_POINTS_blank": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b858cb282617",
+      "last_modified": "2026-10-24T18:43:31",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b858cb282617"
+    },
+    "admin_title_l_english.yml:adjust_sub_admin_title_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "33ac18038289",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a2bbb07125ce"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_1_admin_region_tt": {
+      "approved_at": "2026-10-24T15:25:32",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "091afa89d882",
+      "last_modified": "2026-10-24T15:25:32",
+      "last_reviewed": "2026-10-24T15:25:32",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "179efd0e0c30"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_1_assoc_region_tt": {
+      "approved_at": "2026-10-24T15:25:28",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "04c3b678a27b",
+      "last_modified": "2026-10-24T15:25:28",
+      "last_reviewed": "2026-10-24T15:25:28",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d7e78b9bc370"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_2_admin_region_tt": {
+      "approved_at": "2026-10-24T15:25:36",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "1796070dae7f",
+      "last_modified": "2026-10-24T15:25:36",
+      "last_reviewed": "2026-10-24T15:25:36",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a60288230b2d"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_2_assoc_region_tt": {
+      "approved_at": "2026-10-24T15:25:31",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "3bb3c568519c",
+      "last_modified": "2026-10-24T15:25:31",
+      "last_reviewed": "2026-10-24T15:25:31",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a24ff782d742"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_admin_title_tt": {
+      "approved_at": "2026-10-24T15:24:41",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e278b3f22f50",
+      "last_modified": "2026-10-24T15:24:41",
+      "last_reviewed": "2026-10-24T15:24:41",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e166060a74b4"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_mapmode_tt": {
+      "approved_at": "2026-10-24T15:20:59",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f0f9ab970d94",
+      "last_modified": "2026-10-24T15:20:59",
+      "last_reviewed": "2026-10-24T15:20:59",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b12e723d8082"
+    },
+    "admin_title_l_english.yml:admin_title_textbox_sub_admin_title_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b2c347cc5510",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6698077c6cb9"
+    },
+    "admin_title_l_english.yml:clear_sub_admin_title_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1aaaff9ae20c",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a496f571d4b8"
+    },
+    "admin_title_l_english.yml:sub_admin_title_text_box_2_subdivisions_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6e9fe8d090d8",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b493260d5dfe"
+    },
+    "admin_title_l_english.yml:sub_admin_title_text_box_3_subdivisions_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4db6796a6372",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d9ae5e77908c"
+    },
+    "admin_title_l_english.yml:sub_admin_title_text_box_4_subdivisions_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a6f489db7e2a",
+      "last_modified": "2026-10-25T01:18:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fcd3f0148d45"
+    },
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-10T22:33:08",
       "approved_by": "person_002",
@@ -26447,16 +26776,16 @@
       "ua_hash": "b06fea6789d8"
     },
     "bba_bop_l_english.yml:BOP_TOOLTIP": {
-      "approved_at": "2026-10-10T22:32:37",
-      "approved_by": "person_002",
+      "approved_at": "2026-10-24T15:13:56",
+      "approved_by": "person_001",
       "editor": null,
       "en_hash": "bed58a1617c5",
-      "last_modified": "2026-10-10T22:32:37",
-      "last_reviewed": "2026-10-10T22:32:37",
-      "reviewed_by": "person_002",
+      "last_modified": "2026-10-24T15:13:56",
+      "last_reviewed": "2026-10-24T15:13:56",
+      "reviewed_by": "person_001",
       "status": "approved",
       "translator": null,
-      "ua_hash": "6af65395a26f"
+      "ua_hash": "b72d1b451e0b"
     },
     "bba_bop_l_english.yml:BOP_TOOLTIP_STABLE": {
       "approved_at": "2026-10-10T22:33:00",
@@ -26531,16 +26860,16 @@
       "ua_hash": "daf7d3499cb6"
     },
     "bba_bop_l_english.yml:TNO_BoP_AddTab_tt": {
-      "approved_at": "2026-10-10T22:32:46",
-      "approved_by": "person_002",
+      "approved_at": "2026-10-24T15:13:59",
+      "approved_by": "person_001",
       "editor": null,
       "en_hash": "21711a108e74",
-      "last_modified": "2026-10-10T22:32:46",
-      "last_reviewed": "2026-10-10T22:32:46",
-      "reviewed_by": "person_002",
+      "last_modified": "2026-10-24T15:13:59",
+      "last_reviewed": "2026-10-24T15:13:59",
+      "reviewed_by": "person_001",
       "status": "approved",
       "translator": null,
-      "ua_hash": "0e76f12e6db9"
+      "ua_hash": "dd62a9b4f4f1"
     },
     "bba_bop_l_english.yml:TNO_GlobalConflicts_GUI_Title": {
       "approved_at": "2026-10-10T22:32:41",
