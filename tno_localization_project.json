@@ -32,6 +32,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "alerts_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "bba_bop_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
@@ -14897,6 +14904,2130 @@
         "to": "translated"
       }
     ],
+    "alerts_l_english.yml:ACTIVE_MODIFIER_ALERT_ENTRY": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ACTIVE_MODIFIER_ALERT_ENTRY_HEADER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_AIR_RESERVES_UNUSED_ENTRY": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_AT_WAR": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_AVAILABLE_WARGOAL": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_AVAILABLE_WARGOAL_EXPIRE": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_DELAYED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_DEPLOYMENT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_AIR_REINFORCEMENT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_ARMY_REINFORCEMENT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_GARRISON_REINFORCEMENT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_INSTANT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_NICHED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_ENEMY_GENERATE_WARGOAL": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_ENEMY_GENERATE_WARGOAL_FACTION_MEMBER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_FACTION_GENERATE_WARGOAL": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_FACTION_POSSIBLE_INVITE_COUNTRY": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_LEFTCLICK_TOGGLE_COMBATS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_LEFTCLICK_TOGGLE_SPOTTER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_LOSING_TRAINS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_ATTACKER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_DEFENDER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_INFO": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_INFO_REGION": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_PRIORITY": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_PRIORITY_DETAILS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_PRIORITY_HIGH": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_PRIORITY_NORMAL": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_RIGHTCLICK": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:18:39",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_DISMISS_CURRENT_COMBATS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_DISMISS_CURRENT_SPOTTERS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_REPORT": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:18:44",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_SPOTTER_INFO": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_SPOTTER_INFO_REGION": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_TRADE_IMPORT_DELAYED_ITEM": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_TRADE_IMPORT_UNFULFILLED_INSTANT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALERT_WARSCORE": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALLOW_COOP_REQUEST": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ALLOW_COOP_REQUEST_DESC": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:AND_X_MORE_REPORT": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ASK_TO_COOP_TITLE": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:ASK_TO_COOP_TITLE_DESC": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:DIPLOMACY_REQUEST_CLICKS": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:DIPLOMACY_REQUEST_HEADER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:LOW_SUPPLIES_TIPS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-26T15:28:24",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:28:28",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:NON_ACTIVE_MODIFIER_ALERT_ENTRY": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:NOT_ACTIVE_MODIFIER_ALERT_ENTRY_HEADER": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:PLAY_AS_OBSERVED": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:PLAY_AS_OBSERVED_DESC": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:TIMEOUT_ITEM_LOC": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_air_reserve_unused_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_air_reserve_unused_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_air_wings_unassigned_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_air_wings_unassigned_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_ally_pulling_its_expeditionaries_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_ally_pulling_its_expeditionaries_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_available_wargoal_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_base_low_supply_delayed": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:29:53",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:29:54",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_base_low_supply_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:26:05",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_base_very_low_supply_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      },
+      {
+        "action": "переклад змінено після «На перевірці»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-26T15:28:24",
+        "to": "stale"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-26T15:28:40",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:28:41",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_base_very_low_supply_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:30:00",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_blocked_national_focus_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_blocked_national_focus_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_bop_timeout_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_bop_timeout_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_border_conflict_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_border_conflict_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_border_conflict_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_border_conflict_toggle": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_can_play_observed_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_dangerous_naval_invasion_delayed": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:21",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_dangerous_naval_invasion_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:17",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_decision_new_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_decision_new_delayed_more": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_decision_new_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_decision_timeout_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_decision_timeout_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_deployment_ready_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_deployment_ready_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_doctrine_unlock_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_doctrine_unlock_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_enemy_air_superiority_delayed": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:40",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:43",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_enemy_air_superiority_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:25",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_enemy_generate_wargoal_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_exiled_unit": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_exiled_units_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_expensive_ships_low_str_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_expensive_ships_low_str_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_external_influences_boost_party_popularity": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_external_influences_delayed_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_external_influences_delayed_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_external_influences_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_external_influences_stage_coup": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_assume_leadership_possible_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_assume_leadership_possible_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_generate_wargoal_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_member_near_assuming_leadership_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_member_near_assuming_leadership_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_faction_possible_invite_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_few_manpower_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_few_manpower_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_civilian_factories_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_civilian_factories_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_military_factories_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_military_factories_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_naval_dockyards_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_free_naval_dockyards_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_hostile_troops_delayed": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:19:14",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_hostile_troops_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:19:04",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_industrial_org_sizeup_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_industrial_org_sizeup_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_at_war_delayed_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_at_war_delayed_majors": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_at_war_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_observer_delayed_desc": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_observer_delayed_enter": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_observer_delayed_exit": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_observer_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_spotting_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_is_spotting_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_resources_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_resources_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_low_supply_delayed": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:25:04",
+        "to": "approved"
+      },
+      {
+        "action": "переклад змінено після «Затверджено»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "approved",
+        "note": "",
+        "t": "2026-10-26T11:25:29",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-26T11:25:31",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_low_supply_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:56",
+        "to": "approved"
+      },
+      {
+        "action": "переклад змінено після «Затверджено»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "approved",
+        "note": "",
+        "t": "2026-10-26T11:25:16",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-26T11:25:18",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_battle_results_delayed_click": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_battle_results_delayed_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_battle_results_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_battle_results_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_combat_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_combat_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_delayed_click": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_delayed_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_invasion_delayed": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:19:36",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:19:38",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_invasion_delayed_state": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:24:08",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_naval_invasion_instant": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:19:17",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_no_goal_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_no_goal_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_no_research_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_no_research_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_non_payed_license_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_non_payed_license_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_enough_garrison_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_enough_garrison_delayed_equipment": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_enough_garrison_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_enough_garrison_warning": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_training_divisions_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_not_training_divisions_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_officer_corps_advisor_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_officer_corps_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_officer_corps_spirit_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_outdated_equipment_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_outdated_equipment_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_paused_diplomatic_actions_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_paused_diplomatic_actions_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_pick_new_idea_advisor_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_pick_new_idea_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_pick_new_idea_delayed_bop": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_pick_new_idea_group_type": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_pick_new_idea_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_players_lagging_behind_desc": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_players_lagging_behind_desc_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_players_lagging_behind_title": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_port_strike_results_delayed_click": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_port_strike_results_delayed_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_port_strike_results_entry": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_port_strike_results_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_production_no_template_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_production_no_template_equipments": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_production_no_template_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_production_no_template_xp": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_resistance_delayed_countries": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_resistance_delayed_high_resistance_list": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_resistance_delayed_states": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_resistance_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_self_gain_autonomy_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_self_lose_autonomy_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_subject_gain_autonomy_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_subject_lose_autonomy_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_timed_activity_low_equipment_delayed_base": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_timed_activity_low_equipment_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_unassigned_divisions_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_unassigned_divisions_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_very_low_supply_delayed": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:25:53",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:25:54",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_very_low_supply_instant": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:25:38",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T11:25:40",
+        "to": "approved"
+      }
+    ],
+    "alerts_l_english.yml:alert_volunteer_recieving_transfer_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_volunteer_return_transfer_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_volunteer_send_transfer_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_volunteer_send_transfer_return_delayed": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:alert_volunteer_transfer_instant": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:defeat_color": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
+    "alerts_l_english.yml:victory_color": [
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-26T15:24:33",
+        "to": "review"
+      }
+    ],
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
       {
         "action": "затверджено",
@@ -26582,6 +28713,2073 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "fcd3f0148d45"
+    },
+    "alerts_l_english.yml:ACTIVE_MODIFIER_ALERT_ENTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "54299569bcd0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "54299569bcd0"
+    },
+    "alerts_l_english.yml:ACTIVE_MODIFIER_ALERT_ENTRY_HEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7a64b72fdcea",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "da96c7d70a4a"
+    },
+    "alerts_l_english.yml:ALERT_AIR_RESERVES_UNUSED_ENTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1c744ee99f8d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1c744ee99f8d"
+    },
+    "alerts_l_english.yml:ALERT_AT_WAR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3ac8de08575a",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "8a9e12bb64d0"
+    },
+    "alerts_l_english.yml:ALERT_AVAILABLE_WARGOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "27789b3e2aac",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "27789b3e2aac"
+    },
+    "alerts_l_english.yml:ALERT_AVAILABLE_WARGOAL_EXPIRE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ffb2fa167742",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "bf438745dd5c"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d2c6806e0861",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "d2c6806e0861"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_DELAYED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f01ace1a426c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0969268b8cf5"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_DEPLOYMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "81baef1c4f58",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5fa46ba5c613"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_AIR_REINFORCEMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1258db2fe7d1",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "8f5fe59350d2"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_ARMY_REINFORCEMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5dab30644686",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "95778e759a4a"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_FROM_GARRISON_REINFORCEMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2015681ac616",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ba9bf8354a61"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_INSTANT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f8f29b1e4af3",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9a69c33cf412"
+    },
+    "alerts_l_english.yml:ALERT_DIVISION_NO_EQUIPMENT_NICHED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c86d4e5596ad",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c86d4e5596ad"
+    },
+    "alerts_l_english.yml:ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e7b770c9dd09",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0c89194d8795"
+    },
+    "alerts_l_english.yml:ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d3c9c0811d89",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "78d1f7187f97"
+    },
+    "alerts_l_english.yml:ALERT_ENEMY_GENERATE_WARGOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7d0786dd4102",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "bacf2cbedb90"
+    },
+    "alerts_l_english.yml:ALERT_ENEMY_GENERATE_WARGOAL_FACTION_MEMBER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f0c19edb1503",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1b3f89a729bb"
+    },
+    "alerts_l_english.yml:ALERT_FACTION_GENERATE_WARGOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f0c19edb1503",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1b3f89a729bb"
+    },
+    "alerts_l_english.yml:ALERT_FACTION_POSSIBLE_INVITE_COUNTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5378bf3427ff",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5378bf3427ff"
+    },
+    "alerts_l_english.yml:ALERT_LEFTCLICK_TOGGLE_COMBATS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1c47df0870a0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "de9d1cb3980d"
+    },
+    "alerts_l_english.yml:ALERT_LEFTCLICK_TOGGLE_SPOTTER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "88ae74342f87",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "90548ffb3ee9"
+    },
+    "alerts_l_english.yml:ALERT_LOSING_TRAINS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "84e45f56f2fd",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "32eb8c8220e0"
+    },
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_ATTACKER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c0cb330ebee7",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "dbc8f0f98347"
+    },
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_DEFENDER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6ccd52d7cc72",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2f0bcf571eaf"
+    },
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_INFO": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7ee4e860f15f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "4264ad5b6e8a"
+    },
+    "alerts_l_english.yml:ALERT_NAVAL_COMBAT_INFO_REGION": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dee034525f14",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5cb18fcc4f66"
+    },
+    "alerts_l_english.yml:ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f1d1b2d96661",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "aafd8f556649"
+    },
+    "alerts_l_english.yml:ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d3c9c0811d89",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "78d1f7187f97"
+    },
+    "alerts_l_english.yml:ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "80b6a4f7f915",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c3a6087569b9"
+    },
+    "alerts_l_english.yml:ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0d9cd6751678",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9e1133392b69"
+    },
+    "alerts_l_english.yml:ALERT_PRIORITY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "08d4a5ab421d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "092ffec6a323"
+    },
+    "alerts_l_english.yml:ALERT_PRIORITY_DETAILS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "44c4bb68d295",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1d88947f7ea3"
+    },
+    "alerts_l_english.yml:ALERT_PRIORITY_HIGH": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a9bd3bc2390e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a0b2ef35130d"
+    },
+    "alerts_l_english.yml:ALERT_PRIORITY_NORMAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "45e118d0563e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "31ba66809b16"
+    },
+    "alerts_l_english.yml:ALERT_RIGHTCLICK": {
+      "approved_at": "2026-10-26T11:18:39",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "878e7d533b7c",
+      "last_modified": "2026-10-26T11:18:39",
+      "last_reviewed": "2026-10-26T11:18:39",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "9810d73ef2c1"
+    },
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_DISMISS_CURRENT_COMBATS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "673d5a626142",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c8a639062060"
+    },
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_DISMISS_CURRENT_SPOTTERS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4a625e3f7ffd",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "e4829e73ed20"
+    },
+    "alerts_l_english.yml:ALERT_RIGHTCLICK_REPORT": {
+      "approved_at": "2026-10-26T11:18:44",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "881bba618609",
+      "last_modified": "2026-10-26T11:18:44",
+      "last_reviewed": "2026-10-26T11:18:44",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "bfb31233c58a"
+    },
+    "alerts_l_english.yml:ALERT_SPOTTER_INFO": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "83300c0907ee",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "284743361b26"
+    },
+    "alerts_l_english.yml:ALERT_SPOTTER_INFO_REGION": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "80c9ea9ff570",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ee2db493d4ae"
+    },
+    "alerts_l_english.yml:ALERT_TRADE_IMPORT_DELAYED_ITEM": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4f6118e51202",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b75c8e814d8a"
+    },
+    "alerts_l_english.yml:ALERT_TRADE_IMPORT_UNFULFILLED_INSTANT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "82632d16aab4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "944512512d5a"
+    },
+    "alerts_l_english.yml:ALERT_WARSCORE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "02492a3a4d29",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a705c82581c5"
+    },
+    "alerts_l_english.yml:ALLOW_COOP_REQUEST": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e3362d750363",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2b0f64497bf3"
+    },
+    "alerts_l_english.yml:ALLOW_COOP_REQUEST_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "711ef55eec8d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "fd1f474ae09f"
+    },
+    "alerts_l_english.yml:AND_X_MORE_REPORT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "18979ae03800",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "d572407ae5ff"
+    },
+    "alerts_l_english.yml:ASK_TO_COOP_TITLE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4fd218ffab81",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "62cc1683ae52"
+    },
+    "alerts_l_english.yml:ASK_TO_COOP_TITLE_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b6f768d79da6",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0a281d03ce12"
+    },
+    "alerts_l_english.yml:DIPLOMACY_REQUEST_CLICKS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5b72a8d1a11d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c435e6619920"
+    },
+    "alerts_l_english.yml:DIPLOMACY_REQUEST_HEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "94277961d481",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "cd9c68ecca71"
+    },
+    "alerts_l_english.yml:FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0d4c3b8451a0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0d4c3b8451a0"
+    },
+    "alerts_l_english.yml:FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9bf87f89c6f2",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9bf87f89c6f2"
+    },
+    "alerts_l_english.yml:LOW_SUPPLIES_TIPS": {
+      "approved_at": "2026-10-26T15:28:28",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6e3f536b5da8",
+      "last_modified": "2026-10-26T15:28:28",
+      "last_reviewed": "2026-10-26T15:28:28",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "251c73779ca6"
+    },
+    "alerts_l_english.yml:NON_ACTIVE_MODIFIER_ALERT_ENTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c1b0714f6432",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c1b0714f6432"
+    },
+    "alerts_l_english.yml:NOT_ACTIVE_MODIFIER_ALERT_ENTRY_HEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "52b977ad196d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "4ebc29d08625"
+    },
+    "alerts_l_english.yml:PLAY_AS_OBSERVED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f50f7750086b",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "446fc62c1a10"
+    },
+    "alerts_l_english.yml:PLAY_AS_OBSERVED_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c6fbb40d0f49",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7d6c2e870df6"
+    },
+    "alerts_l_english.yml:TIMEOUT_ITEM_LOC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ba1844c6f8ed",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b881f2bc5035"
+    },
+    "alerts_l_english.yml:alert_air_reserve_unused_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2f8cf0c02533",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c38f8703b24a"
+    },
+    "alerts_l_english.yml:alert_air_reserve_unused_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "98b05764d943",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "af8c9c02f5e5"
+    },
+    "alerts_l_english.yml:alert_air_wings_unassigned_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e97f6cf79b69",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3bb3258f8a15"
+    },
+    "alerts_l_english.yml:alert_air_wings_unassigned_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "996b936293cb",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ad4a19860cc0"
+    },
+    "alerts_l_english.yml:alert_ally_pulling_its_expeditionaries_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4c4fdf6d6718",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "04816137b840"
+    },
+    "alerts_l_english.yml:alert_ally_pulling_its_expeditionaries_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "adb0bc6c50d2",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3b9de1722cd6"
+    },
+    "alerts_l_english.yml:alert_available_wargoal_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "28046969f764",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "110acfa491ae"
+    },
+    "alerts_l_english.yml:alert_base_low_supply_delayed": {
+      "approved_at": "2026-10-26T11:29:54",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7acc1a5d0edc",
+      "last_modified": "2026-10-26T11:29:54",
+      "last_reviewed": "2026-10-26T11:29:54",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "175fe8f911af"
+    },
+    "alerts_l_english.yml:alert_base_low_supply_instant": {
+      "approved_at": "2026-10-26T11:26:05",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "df449ca923b8",
+      "last_modified": "2026-10-26T11:26:05",
+      "last_reviewed": "2026-10-26T11:26:05",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "6f60ab185470"
+    },
+    "alerts_l_english.yml:alert_base_very_low_supply_delayed": {
+      "approved_at": "2026-10-26T15:28:41",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7acc1a5d0edc",
+      "last_modified": "2026-10-26T15:28:41",
+      "last_reviewed": "2026-10-26T15:28:41",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "175fe8f911af"
+    },
+    "alerts_l_english.yml:alert_base_very_low_supply_instant": {
+      "approved_at": "2026-10-26T11:30:00",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "13964794b8c8",
+      "last_modified": "2026-10-26T11:30:00",
+      "last_reviewed": "2026-10-26T11:30:00",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "25873d4be79e"
+    },
+    "alerts_l_english.yml:alert_blocked_national_focus_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8f8f78f141fb",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "cfed43a102e8"
+    },
+    "alerts_l_english.yml:alert_blocked_national_focus_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0b648a6acab6",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "bea71cb44d41"
+    },
+    "alerts_l_english.yml:alert_bop_timeout_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e0e4661b676c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "895bb04d2940"
+    },
+    "alerts_l_english.yml:alert_bop_timeout_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dd4abc03b838",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "89778bcdd1ac"
+    },
+    "alerts_l_english.yml:alert_border_conflict_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8395c52dbca1",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "70d1a7345234"
+    },
+    "alerts_l_english.yml:alert_border_conflict_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8c263e37e9ee",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "d7359028479e"
+    },
+    "alerts_l_english.yml:alert_border_conflict_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "44049a505aa4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b7935884e8c2"
+    },
+    "alerts_l_english.yml:alert_border_conflict_toggle": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "568d57ea8b37",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "aed881f8cd63"
+    },
+    "alerts_l_english.yml:alert_can_play_observed_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0aca4c2445df",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3723c20d23e0"
+    },
+    "alerts_l_english.yml:alert_dangerous_naval_invasion_delayed": {
+      "approved_at": "2026-10-26T11:24:21",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "a3967eb36cfe",
+      "last_modified": "2026-10-26T11:24:21",
+      "last_reviewed": "2026-10-26T11:24:21",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e82b57b309da"
+    },
+    "alerts_l_english.yml:alert_dangerous_naval_invasion_instant": {
+      "approved_at": "2026-10-26T11:24:17",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "65ac5d8e4cda",
+      "last_modified": "2026-10-26T11:24:17",
+      "last_reviewed": "2026-10-26T11:24:17",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c838051bd653"
+    },
+    "alerts_l_english.yml:alert_decision_new_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "833c157ce840",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "81f5eaf7c82b"
+    },
+    "alerts_l_english.yml:alert_decision_new_delayed_more": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "36be7c307c44",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "87ace4813ed8"
+    },
+    "alerts_l_english.yml:alert_decision_new_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0f695b332747",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3c6177b101ac"
+    },
+    "alerts_l_english.yml:alert_decision_timeout_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "43be4eca95c0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a7d2324a3f0f"
+    },
+    "alerts_l_english.yml:alert_decision_timeout_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "94bb0f8682ef",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7a59994de562"
+    },
+    "alerts_l_english.yml:alert_deployment_ready_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "98c9679df6b3",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5476aa61b9c5"
+    },
+    "alerts_l_english.yml:alert_deployment_ready_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ce6d2235ac24",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "4327673fcba1"
+    },
+    "alerts_l_english.yml:alert_doctrine_unlock_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bd1b957ea998",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7dac3e942755"
+    },
+    "alerts_l_english.yml:alert_doctrine_unlock_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c1a9acd7c580",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "6fd7936d5b26"
+    },
+    "alerts_l_english.yml:alert_enemy_air_superiority_delayed": {
+      "approved_at": "2026-10-26T11:24:43",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "04ded0e4be3a",
+      "last_modified": "2026-10-26T11:24:43",
+      "last_reviewed": "2026-10-26T11:24:43",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "bb35e8205c81"
+    },
+    "alerts_l_english.yml:alert_enemy_air_superiority_instant": {
+      "approved_at": "2026-10-26T11:24:25",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "8d0f88a7346b",
+      "last_modified": "2026-10-26T11:24:25",
+      "last_reviewed": "2026-10-26T11:24:25",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "fe88203b2b98"
+    },
+    "alerts_l_english.yml:alert_enemy_generate_wargoal_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e4f59ec11d1f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3e0334f5226c"
+    },
+    "alerts_l_english.yml:alert_exiled_unit": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "54299569bcd0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "54299569bcd0"
+    },
+    "alerts_l_english.yml:alert_exiled_units_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ef0491f8ec78",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "dfee1c8222b7"
+    },
+    "alerts_l_english.yml:alert_expensive_ships_low_str_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "85a0ef85c530",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1a771aa62534"
+    },
+    "alerts_l_english.yml:alert_expensive_ships_low_str_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c71c1155f2ef",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7293d9b73d2e"
+    },
+    "alerts_l_english.yml:alert_external_influences_boost_party_popularity": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d303c67ee4dd",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1a89d56e57c7"
+    },
+    "alerts_l_english.yml:alert_external_influences_delayed_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d2b1079d8878",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "94f24454a317"
+    },
+    "alerts_l_english.yml:alert_external_influences_delayed_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "22173a580439",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "22173a580439"
+    },
+    "alerts_l_english.yml:alert_external_influences_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "05bb75206d31",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b4e53ccae4ef"
+    },
+    "alerts_l_english.yml:alert_external_influences_stage_coup": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e9dd8565a91a",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a4c13b32e07c"
+    },
+    "alerts_l_english.yml:alert_faction_assume_leadership_possible_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e2009053ddc8",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b9e1f2f1d114"
+    },
+    "alerts_l_english.yml:alert_faction_assume_leadership_possible_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "60660400a33c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ac2a54416c85"
+    },
+    "alerts_l_english.yml:alert_faction_generate_wargoal_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ae15cb213614",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2c3f4fca00c4"
+    },
+    "alerts_l_english.yml:alert_faction_member_near_assuming_leadership_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "88d5a4c16d5b",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9e35491f437d"
+    },
+    "alerts_l_english.yml:alert_faction_member_near_assuming_leadership_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "320f59100a01",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5bbf4cfad79d"
+    },
+    "alerts_l_english.yml:alert_faction_possible_invite_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "60681be1eb52",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "8452cf006d45"
+    },
+    "alerts_l_english.yml:alert_few_manpower_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8e366c13a0a0",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "87f5b359bdfe"
+    },
+    "alerts_l_english.yml:alert_few_manpower_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "03efd1afd957",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7d76ae6229f0"
+    },
+    "alerts_l_english.yml:alert_free_civilian_factories_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3130bff41e99",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "64d1ebda28e0"
+    },
+    "alerts_l_english.yml:alert_free_civilian_factories_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e6a6068a4de2",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "766783b1296c"
+    },
+    "alerts_l_english.yml:alert_free_military_factories_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2edd339fdee2",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c83de10978f9"
+    },
+    "alerts_l_english.yml:alert_free_military_factories_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "454afdb7aa4c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "791ccf9895c0"
+    },
+    "alerts_l_english.yml:alert_free_naval_dockyards_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b40a83fa8f45",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "d6ed7b7519f5"
+    },
+    "alerts_l_english.yml:alert_free_naval_dockyards_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c6c822c00010",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0d1fdc932dee"
+    },
+    "alerts_l_english.yml:alert_hostile_troops_delayed": {
+      "approved_at": "2026-10-26T11:19:14",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "96528256126f",
+      "last_modified": "2026-10-26T11:19:14",
+      "last_reviewed": "2026-10-26T11:19:14",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a523b3baa900"
+    },
+    "alerts_l_english.yml:alert_hostile_troops_instant": {
+      "approved_at": "2026-10-26T11:19:04",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "40c4adbd41a1",
+      "last_modified": "2026-10-26T11:19:04",
+      "last_reviewed": "2026-10-26T11:19:04",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "238a6d441820"
+    },
+    "alerts_l_english.yml:alert_industrial_org_sizeup_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d618fb6b08d8",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3f382584d701"
+    },
+    "alerts_l_english.yml:alert_industrial_org_sizeup_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c65c46338134",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b59186389679"
+    },
+    "alerts_l_english.yml:alert_is_at_war_delayed_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e2604648a109",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "4378d0db9ba9"
+    },
+    "alerts_l_english.yml:alert_is_at_war_delayed_majors": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "075e23479ab9",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ed6858f1cfc8"
+    },
+    "alerts_l_english.yml:alert_is_at_war_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bc34ef9b7293",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9c8cb1137f24"
+    },
+    "alerts_l_english.yml:alert_is_observer_delayed_desc": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "832c6d1ee8fa",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "f5e5877d7e18"
+    },
+    "alerts_l_english.yml:alert_is_observer_delayed_enter": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bfe696c98d13",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "692cc996fb12"
+    },
+    "alerts_l_english.yml:alert_is_observer_delayed_exit": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "02dad97bcc1c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "598c1dd6b9e1"
+    },
+    "alerts_l_english.yml:alert_is_observer_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "858fc7d61a95",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2fa9d863b61d"
+    },
+    "alerts_l_english.yml:alert_is_spotting_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f10ea5f67bf4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a8287014e46e"
+    },
+    "alerts_l_english.yml:alert_is_spotting_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e409ca9fadec",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "570b2d19f665"
+    },
+    "alerts_l_english.yml:alert_lack_of_resources_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "39e0fd7ff0fb",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7ed4aa5e5e02"
+    },
+    "alerts_l_english.yml:alert_lack_of_resources_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9f4d181c820c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5bf841cb71aa"
+    },
+    "alerts_l_english.yml:alert_low_supply_delayed": {
+      "approved_at": "2026-10-26T11:25:31",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "c082456565a4",
+      "last_modified": "2026-10-26T11:25:31",
+      "last_reviewed": "2026-10-26T11:25:31",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c9ffc91d5013"
+    },
+    "alerts_l_english.yml:alert_low_supply_instant": {
+      "approved_at": "2026-10-26T11:25:18",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "417733f51e13",
+      "last_modified": "2026-10-26T11:25:18",
+      "last_reviewed": "2026-10-26T11:25:18",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "361b238a2d20"
+    },
+    "alerts_l_english.yml:alert_naval_battle_results_delayed_click": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c1527acd096c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9610b4849f27"
+    },
+    "alerts_l_english.yml:alert_naval_battle_results_delayed_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "70ed370342a4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "456bdb8b1d8d"
+    },
+    "alerts_l_english.yml:alert_naval_battle_results_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4dada508efa9",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "593c68a09465"
+    },
+    "alerts_l_english.yml:alert_naval_battle_results_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f60e3fa23748",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "be8bcb9fb107"
+    },
+    "alerts_l_english.yml:alert_naval_combat_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "021f0efa2ae8",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "92fd3f317b1e"
+    },
+    "alerts_l_english.yml:alert_naval_combat_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e718718d5025",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "e2e5739612a3"
+    },
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_delayed_click": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f011b4071194",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "1027447213ce"
+    },
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_delayed_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0f3b809a3bfe",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "54b23293e42a"
+    },
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4dada508efa9",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "593c68a09465"
+    },
+    "alerts_l_english.yml:alert_naval_convoy_raiding_results_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "124181f84af3",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5403a1f78858"
+    },
+    "alerts_l_english.yml:alert_naval_invasion_delayed": {
+      "approved_at": "2026-10-26T11:19:38",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f57a5d33c88d",
+      "last_modified": "2026-10-26T11:19:38",
+      "last_reviewed": "2026-10-26T11:19:38",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d3ab0b2c9347"
+    },
+    "alerts_l_english.yml:alert_naval_invasion_delayed_state": {
+      "approved_at": "2026-10-26T11:24:08",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "c8b0d5d84b23",
+      "last_modified": "2026-10-26T11:24:08",
+      "last_reviewed": "2026-10-26T11:24:08",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c8b0d5d84b23"
+    },
+    "alerts_l_english.yml:alert_naval_invasion_instant": {
+      "approved_at": "2026-10-26T11:19:17",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "b5ab77d8605b",
+      "last_modified": "2026-10-26T11:19:17",
+      "last_reviewed": "2026-10-26T11:19:17",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "83daa8efde4c"
+    },
+    "alerts_l_english.yml:alert_no_goal_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0aed73bb6d08",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "76d731390a3a"
+    },
+    "alerts_l_english.yml:alert_no_goal_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2e1d07b989d4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "58dcfdae62fb"
+    },
+    "alerts_l_english.yml:alert_no_research_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7caa5142072f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "f5590659227d"
+    },
+    "alerts_l_english.yml:alert_no_research_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ed5ab4f79232",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9bb485c93574"
+    },
+    "alerts_l_english.yml:alert_non_payed_license_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "453f785b21b8",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "715987cd23b0"
+    },
+    "alerts_l_english.yml:alert_non_payed_license_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "31736cd64478",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "12ad93c84f12"
+    },
+    "alerts_l_english.yml:alert_not_enough_garrison_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3df7d091b9d6",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5f88ea6caf54"
+    },
+    "alerts_l_english.yml:alert_not_enough_garrison_delayed_equipment": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a9fd1bd74ad6",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "9b733a98430b"
+    },
+    "alerts_l_english.yml:alert_not_enough_garrison_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "709bbba000a4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5df8b0efbf42"
+    },
+    "alerts_l_english.yml:alert_not_enough_garrison_warning": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c0740f2e906c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "58c57d7404e3"
+    },
+    "alerts_l_english.yml:alert_not_training_divisions_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "527a08430399",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a76741f7d02c"
+    },
+    "alerts_l_english.yml:alert_not_training_divisions_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2f1a1ae00662",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c499733d9efe"
+    },
+    "alerts_l_english.yml:alert_officer_corps_advisor_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "93d3ceccf41d",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "cd2d948b81c6"
+    },
+    "alerts_l_english.yml:alert_officer_corps_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6e16ba27a7db",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0e5dc188b71d"
+    },
+    "alerts_l_english.yml:alert_officer_corps_spirit_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4dfd9393c74a",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "493dd5551ad8"
+    },
+    "alerts_l_english.yml:alert_outdated_equipment_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5fe409394204",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "6d6f058a33bc"
+    },
+    "alerts_l_english.yml:alert_outdated_equipment_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "62a2c1e5d161",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "e467486d30cb"
+    },
+    "alerts_l_english.yml:alert_paused_diplomatic_actions_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "454695b0d8d1",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c4ce4664ec7e"
+    },
+    "alerts_l_english.yml:alert_paused_diplomatic_actions_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3da04f8646e7",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "381955705374"
+    },
+    "alerts_l_english.yml:alert_pick_new_idea_advisor_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dcb4464bd5a5",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a4f40dc53092"
+    },
+    "alerts_l_english.yml:alert_pick_new_idea_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "573e713632c1",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "e72e4484140d"
+    },
+    "alerts_l_english.yml:alert_pick_new_idea_delayed_bop": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7fbdb92c9dc3",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ebd3b4ae0c39"
+    },
+    "alerts_l_english.yml:alert_pick_new_idea_group_type": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "33071c3c4da5",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "33071c3c4da5"
+    },
+    "alerts_l_english.yml:alert_pick_new_idea_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "695c9bcb1962",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "f68af7cafe47"
+    },
+    "alerts_l_english.yml:alert_players_lagging_behind_desc": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "063154f25f9e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "bc860e13ee6f"
+    },
+    "alerts_l_english.yml:alert_players_lagging_behind_desc_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "133572658a9e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "596bb04d7142"
+    },
+    "alerts_l_english.yml:alert_players_lagging_behind_title": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "919b75cb2ba5",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "8f4445002512"
+    },
+    "alerts_l_english.yml:alert_port_strike_results_delayed_click": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "045ad93957d9",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b10680462820"
+    },
+    "alerts_l_english.yml:alert_port_strike_results_delayed_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3c8fc6abfa6e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "15de0a1c3118"
+    },
+    "alerts_l_english.yml:alert_port_strike_results_entry": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4dada508efa9",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "593c68a09465"
+    },
+    "alerts_l_english.yml:alert_port_strike_results_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "351f67738a76",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "b3d5cbc02b9f"
+    },
+    "alerts_l_english.yml:alert_production_no_template_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9790b872f39a",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "c04e3ed4c50c"
+    },
+    "alerts_l_english.yml:alert_production_no_template_equipments": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e1af1b0e8a5c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "53c45a20968d"
+    },
+    "alerts_l_english.yml:alert_production_no_template_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2541b0be1524",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a753c45a03fb"
+    },
+    "alerts_l_english.yml:alert_production_no_template_xp": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "25335242704f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3624f0fd1e20"
+    },
+    "alerts_l_english.yml:alert_resistance_delayed_countries": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e3daa31e3c85",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "01fda82f7329"
+    },
+    "alerts_l_english.yml:alert_resistance_delayed_high_resistance_list": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9594892855b4",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "203905a5992a"
+    },
+    "alerts_l_english.yml:alert_resistance_delayed_states": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6b0011c8986f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "5b931c457669"
+    },
+    "alerts_l_english.yml:alert_resistance_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "83856f5dc078",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "d0aae0738bc4"
+    },
+    "alerts_l_english.yml:alert_self_gain_autonomy_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b7f81082bf2e",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "29e35ca09455"
+    },
+    "alerts_l_english.yml:alert_self_lose_autonomy_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fe3983474b5c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "cbd092ba3b9f"
+    },
+    "alerts_l_english.yml:alert_subject_gain_autonomy_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f5457d641a4f",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "79d587e0f922"
+    },
+    "alerts_l_english.yml:alert_subject_lose_autonomy_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "23341472dd76",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "977629873f93"
+    },
+    "alerts_l_english.yml:alert_timed_activity_low_equipment_delayed_base": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a37087b17fc5",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "f3170cfeb839"
+    },
+    "alerts_l_english.yml:alert_timed_activity_low_equipment_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3a177d6200de",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "8f62db7d9c6f"
+    },
+    "alerts_l_english.yml:alert_unassigned_divisions_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d24a5dbfad62",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "137e039a0571"
+    },
+    "alerts_l_english.yml:alert_unassigned_divisions_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "52ea5eb0a619",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "3ffe257c6286"
+    },
+    "alerts_l_english.yml:alert_very_low_supply_delayed": {
+      "approved_at": "2026-10-26T11:25:54",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2fed10138a72",
+      "last_modified": "2026-10-26T11:25:54",
+      "last_reviewed": "2026-10-26T11:25:54",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "348eee940281"
+    },
+    "alerts_l_english.yml:alert_very_low_supply_instant": {
+      "approved_at": "2026-10-26T11:25:40",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4c886de7215f",
+      "last_modified": "2026-10-26T11:25:40",
+      "last_reviewed": "2026-10-26T11:25:40",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c7141a28e33c"
+    },
+    "alerts_l_english.yml:alert_volunteer_recieving_transfer_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "04d89dd6913c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "7f31e785ebed"
+    },
+    "alerts_l_english.yml:alert_volunteer_return_transfer_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9e98436faa23",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "6422a1392a21"
+    },
+    "alerts_l_english.yml:alert_volunteer_send_transfer_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e8ae1e96186c",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2ac16914dce0"
+    },
+    "alerts_l_english.yml:alert_volunteer_send_transfer_return_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "32922ca99777",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ccb7d28e2721"
+    },
+    "alerts_l_english.yml:alert_volunteer_transfer_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "269884a26b46",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "2d8084997430"
+    },
+    "alerts_l_english.yml:defeat_color": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d92d88414046",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "709f36ce89a5"
+    },
+    "alerts_l_english.yml:victory_color": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a13864eda6e8",
+      "last_modified": "2026-10-26T15:24:33",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "a3d9ec41e53f"
     },
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-10T22:33:08",
