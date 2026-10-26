@@ -33,7 +33,9 @@
       "translators": []
     },
     "alerts_l_english.yml": {
-      "editors": [],
+      "editors": [
+        "person_001"
+      ],
       "last_checked": null,
       "manual_status": null,
       "technical_state": "unknown",
