@@ -41,10 +41,17 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "army_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "bba_bop_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
-      "manual_status": null,
+      "manual_status": "awaiting_decision",
       "technical_state": "unknown",
       "translators": []
     },
@@ -3311,21 +3318,21 @@
     "english/aat_decisions_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:10",
-      "manual_status": null,
+      "manual_status": "awaiting_decision",
       "technical_state": "unknown",
       "translators": []
     },
     "english/adjacency_rules_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:10",
-      "manual_status": null,
+      "manual_status": "awaiting_decision",
       "technical_state": "unknown",
       "translators": []
     },
     "english/admin_title_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:10",
-      "manual_status": null,
+      "manual_status": "awaiting_decision",
       "technical_state": "unknown",
       "translators": []
     },
@@ -15764,6 +15771,22 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "переклад змінено після «На перевірці»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:07:22",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-27T11:07:24",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_decision_new_delayed_more": [
@@ -15774,6 +15797,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:07:02",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_decision_new_instant": [
@@ -15784,6 +15815,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:06:54",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_decision_timeout_delayed": [
@@ -15814,6 +15853,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:57",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_deployment_ready_instant": [
@@ -15824,6 +15871,22 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "переклад змінено після «На перевірці»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:50",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-27T10:55:51",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_doctrine_unlock_delayed": [
@@ -16462,6 +16525,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:26",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_no_goal_instant": [
@@ -16472,6 +16543,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:24",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_no_research_delayed": [
@@ -16482,6 +16561,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:18",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_no_research_instant": [
@@ -16492,6 +16579,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:55:11",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_non_payed_license_delayed": [
@@ -16502,6 +16597,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:06:49",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_non_payed_license_instant": [
@@ -16512,6 +16615,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:06:24",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_not_enough_garrison_delayed": [
@@ -16772,6 +16883,22 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "переклад змінено після «На перевірці»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:56:13",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-27T10:56:14",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_production_no_template_equipments": [
@@ -16782,6 +16909,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:06:21",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_production_no_template_instant": [
@@ -16792,6 +16927,14 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T10:56:00",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_production_no_template_xp": [
@@ -16802,6 +16945,22 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      },
+      {
+        "action": "переклад змінено після «На перевірці»: потрібна повторна перевірка",
+        "by": "person_001",
+        "from": "review",
+        "note": "",
+        "t": "2026-10-27T11:06:13",
+        "to": "stale"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-10-27T11:06:14",
+        "to": "approved"
       }
     ],
     "alerts_l_english.yml:alert_resistance_delayed_countries": [
@@ -17028,6 +17187,24 @@
         "note": "",
         "t": "2026-10-26T15:24:33",
         "to": "review"
+      }
+    ],
+    "army_l_english.yml:OFFICERS_SELECT_CUSTOM": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-27T21:32:36",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-27T21:32:37",
+        "to": "approved"
       }
     ],
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
@@ -29548,32 +29725,41 @@
       "ua_hash": "c838051bd653"
     },
     "alerts_l_english.yml:alert_decision_new_delayed": {
+      "approved_at": "2026-10-27T11:07:24",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "833c157ce840",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:07:24",
+      "last_reviewed": "2026-10-27T11:07:24",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "81f5eaf7c82b"
+      "ua_hash": "48ab38e8926d"
     },
     "alerts_l_english.yml:alert_decision_new_delayed_more": {
+      "approved_at": "2026-10-27T11:07:02",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "36be7c307c44",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:07:02",
+      "last_reviewed": "2026-10-27T11:07:02",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "87ace4813ed8"
     },
     "alerts_l_english.yml:alert_decision_new_instant": {
+      "approved_at": "2026-10-27T11:06:54",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "0f695b332747",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:06:54",
+      "last_reviewed": "2026-10-27T11:06:54",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "3c6177b101ac"
     },
@@ -29598,24 +29784,30 @@
       "ua_hash": "7a59994de562"
     },
     "alerts_l_english.yml:alert_deployment_ready_delayed": {
+      "approved_at": "2026-10-27T10:55:57",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "98c9679df6b3",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:57",
+      "last_reviewed": "2026-10-27T10:55:57",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "5476aa61b9c5"
     },
     "alerts_l_english.yml:alert_deployment_ready_instant": {
+      "approved_at": "2026-10-27T10:55:51",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "ce6d2235ac24",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:51",
+      "last_reviewed": "2026-10-27T10:55:51",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "4327673fcba1"
+      "ua_hash": "40863fa43458"
     },
     "alerts_l_english.yml:alert_doctrine_unlock_delayed": {
       "author": "person_001",
@@ -30218,62 +30410,80 @@
       "ua_hash": "83daa8efde4c"
     },
     "alerts_l_english.yml:alert_no_goal_delayed": {
+      "approved_at": "2026-10-27T10:55:26",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "0aed73bb6d08",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:26",
+      "last_reviewed": "2026-10-27T10:55:26",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "76d731390a3a"
     },
     "alerts_l_english.yml:alert_no_goal_instant": {
+      "approved_at": "2026-10-27T10:55:24",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "2e1d07b989d4",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:24",
+      "last_reviewed": "2026-10-27T10:55:24",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "58dcfdae62fb"
     },
     "alerts_l_english.yml:alert_no_research_delayed": {
+      "approved_at": "2026-10-27T10:55:18",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "7caa5142072f",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:18",
+      "last_reviewed": "2026-10-27T10:55:18",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "f5590659227d"
     },
     "alerts_l_english.yml:alert_no_research_instant": {
+      "approved_at": "2026-10-27T10:55:11",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "ed5ab4f79232",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:55:11",
+      "last_reviewed": "2026-10-27T10:55:11",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "9bb485c93574"
     },
     "alerts_l_english.yml:alert_non_payed_license_delayed": {
+      "approved_at": "2026-10-27T11:06:49",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "453f785b21b8",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:06:49",
+      "last_reviewed": "2026-10-27T11:06:49",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "715987cd23b0"
     },
     "alerts_l_english.yml:alert_non_payed_license_instant": {
+      "approved_at": "2026-10-27T11:06:24",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "31736cd64478",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:06:24",
+      "last_reviewed": "2026-10-27T11:06:24",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "12ad93c84f12"
     },
@@ -30528,44 +30738,56 @@
       "ua_hash": "b3d5cbc02b9f"
     },
     "alerts_l_english.yml:alert_production_no_template_delayed": {
+      "approved_at": "2026-10-27T10:56:14",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "9790b872f39a",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:56:14",
+      "last_reviewed": "2026-10-27T10:56:14",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "c04e3ed4c50c"
+      "ua_hash": "10d9d943fd23"
     },
     "alerts_l_english.yml:alert_production_no_template_equipments": {
+      "approved_at": "2026-10-27T11:06:21",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "e1af1b0e8a5c",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:06:21",
+      "last_reviewed": "2026-10-27T11:06:21",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "53c45a20968d"
     },
     "alerts_l_english.yml:alert_production_no_template_instant": {
+      "approved_at": "2026-10-27T10:56:00",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "2541b0be1524",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T10:56:00",
+      "last_reviewed": "2026-10-27T10:56:00",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
       "ua_hash": "a753c45a03fb"
     },
     "alerts_l_english.yml:alert_production_no_template_xp": {
+      "approved_at": "2026-10-27T11:06:14",
+      "approved_by": "person_001",
       "author": "person_001",
       "editor": null,
       "en_hash": "25335242704f",
-      "last_modified": "2026-10-26T15:24:33",
-      "last_reviewed": null,
-      "status": "review",
+      "last_modified": "2026-10-27T11:06:14",
+      "last_reviewed": "2026-10-27T11:06:14",
+      "reviewed_by": "person_001",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "3624f0fd1e20"
+      "ua_hash": "71be9af43da7"
     },
     "alerts_l_english.yml:alert_resistance_delayed_countries": {
       "author": "person_001",
@@ -30782,6 +31004,19 @@
       "status": "review",
       "translator": null,
       "ua_hash": "a3d9ec41e53f"
+    },
+    "army_l_english.yml:OFFICERS_SELECT_CUSTOM": {
+      "approved_at": "2026-10-27T21:32:37",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a0bb5fe8ee0a",
+      "last_modified": "2026-10-27T21:32:37",
+      "last_reviewed": "2026-10-27T21:32:37",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2d12e3fb1b3c"
     },
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-10T22:33:08",
