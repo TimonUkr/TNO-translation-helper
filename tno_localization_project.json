@@ -16792,6 +16792,36 @@
         "to": "translated"
       }
     ],
+    "alerts_l_english.yml:alert_headquarter_admiral_delayed": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_headquarter_admiral_instant": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_headquarter_admiral_location": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
     "alerts_l_english.yml:alert_hostile_troops_delayed": [
       {
         "action": "затверджено",
@@ -17434,6 +17464,36 @@
         "to": "review"
       }
     ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_air": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_army": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_navy": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
     "alerts_l_english.yml:alert_out_of_fuel_delayed_header": [
       {
         "action": "перекладено",
@@ -17441,6 +17501,36 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-28T23:33:22",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_attack": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_range": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_speed": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T15:51:48",
         "to": "translated"
       }
     ],
@@ -31323,6 +31413,36 @@
       "translator": null,
       "ua_hash": "c081736cb05b"
     },
+    "alerts_l_english.yml:alert_headquarter_admiral_delayed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "767f4622d490",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8c5bb541df42"
+    },
+    "alerts_l_english.yml:alert_headquarter_admiral_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "02d056884747",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2281b2cfc002"
+    },
+    "alerts_l_english.yml:alert_headquarter_admiral_location": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "03e3fdbc8c72",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "03e3fdbc8c72"
+    },
     "alerts_l_english.yml:alert_hostile_troops_delayed": {
       "approved_at": "2026-10-26T11:19:14",
       "approved_by": "person_001",
@@ -31842,6 +31962,36 @@
       "translator": null,
       "ua_hash": "493dd5551ad8"
     },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_air": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "90cdd2fda473",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9fd1811cae34"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_army": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3aa4ec2ad582",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ed19bb2d9c55"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_entry_navy": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8b184afa67da",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "26eb9d275c89"
+    },
     "alerts_l_english.yml:alert_out_of_fuel_delayed_header": {
       "author": "person_001",
       "editor": null,
@@ -31851,6 +32001,36 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "ff14674c56ab"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_attack": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5d9c35f7b463",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da39a3ee5e6b"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_range": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "39a30102ec0c",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da39a3ee5e6b"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_speed": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "edead924891b",
+      "last_modified": "2026-10-29T15:51:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "15e857e067f6"
     },
     "alerts_l_english.yml:alert_out_of_fuel_instant": {
       "author": "person_001",
