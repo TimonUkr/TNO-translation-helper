@@ -16522,6 +16522,16 @@
         "to": "approved"
       }
     ],
+    "alerts_l_english.yml:alert_faction_can_select_goal_instant": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
     "alerts_l_english.yml:alert_faction_generate_wargoal_instant": [
       {
         "action": "відправлено на перевірку",
@@ -17024,6 +17034,56 @@
         "to": "approved"
       }
     ],
+    "alerts_l_english.yml:alert_lack_of_power_delayed_civ": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_power_delayed_header": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_power_delayed_mil": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_power_delayed_nav": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_lack_of_power_instant": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
     "alerts_l_english.yml:alert_lack_of_resources_delayed": [
       {
         "action": "відправлено на перевірку",
@@ -17512,6 +17572,14 @@
         "note": "",
         "t": "2026-10-29T15:51:48",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
       }
     ],
     "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_range": [
@@ -17522,6 +17590,14 @@
         "note": "",
         "t": "2026-10-29T15:51:48",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
       }
     ],
     "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_speed": [
@@ -17531,6 +17607,24 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-29T15:51:48",
+        "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
+        "to": "translated"
+      }
+    ],
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_torpedo": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T22:52:42",
         "to": "translated"
       }
     ],
@@ -18282,6 +18376,86 @@
         "to": "review"
       }
     ],
+    "army_l_english.yml:ARMY_NAVIES_TOOLTIP_DETAILED_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:55:27",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:ARMY_NAVIES_TOOLTIP_DETAILED_MULTIPLE_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:55:27",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:NAVAL_HEADQUARTER_ASSIGN_ADMIRAL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER_COLORED": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER_DELAYED": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:OFFICERS_APPOINT_ADVISOR": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:55:27",
+        "to": "translated"
+      }
+    ],
     "army_l_english.yml:OFFICERS_SELECT_CUSTOM": [
       {
         "action": "переклад виправлено",
@@ -18298,6 +18472,56 @@
         "note": "",
         "t": "2026-10-27T21:32:37",
         "to": "approved"
+      }
+    ],
+    "army_l_english.yml:OFFICER_CORP_AIR_DOCTRINE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:OFFICER_CORP_ARMY_DOCTRINE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:OFFICER_CORP_NAVY_DOCTRINE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:06:58",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED_2": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:55:27",
+        "to": "translated"
+      }
+    ],
+    "army_l_english.yml:THEATER_GROUP_NAME_PATTERN": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T22:55:55",
+        "to": "translated"
       }
     ],
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
@@ -18580,6 +18804,126 @@
         "note": "",
         "t": "2026-10-10T22:32:41",
         "to": "approved"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_LAUNCHED_RAIDS_LABEL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_MEDAL_TOOLTIP_BRONZE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_MEDAL_TOOLTIP_SILVER": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_PROVINCES_GAINED_PER_YEAR_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SWITCHER_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_THE_GUNS_OF_AUGUST_QUOTE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_TRIGGER_BONUS_PERCENT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:DLC_NOT_OWNED_TEXT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:DLC_OWNED_TEXT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
+      }
+    ],
+    "career_profile_achievements_l_english.yml:REQUIRES_DLC_TEXT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-29T23:43:54",
+        "to": "translated"
       }
     ],
     "career_profile_achievements_l_english.yml:TNO_CAREER_PROFILE": [
@@ -31227,6 +31571,16 @@
       "translator": null,
       "ua_hash": "ac2a54416c85"
     },
+    "alerts_l_english.yml:alert_faction_can_select_goal_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "25ebfff9df25",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9f536e70d06a"
+    },
     "alerts_l_english.yml:alert_faction_generate_wargoal_instant": {
       "approved_at": "2026-10-28T13:09:06",
       "approved_by": "person_001",
@@ -31600,6 +31954,56 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "570b2d19f665"
+    },
+    "alerts_l_english.yml:alert_lack_of_power_delayed_civ": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9388e803aa1f",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1952ea0ff6e9"
+    },
+    "alerts_l_english.yml:alert_lack_of_power_delayed_header": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "865bfa5a69d5",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4aa89c20bfec"
+    },
+    "alerts_l_english.yml:alert_lack_of_power_delayed_mil": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9777900aaf67",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "cafc8e0b5bb7"
+    },
+    "alerts_l_english.yml:alert_lack_of_power_delayed_nav": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5955ce1d15de",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "26727e90227d"
+    },
+    "alerts_l_english.yml:alert_lack_of_power_instant": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1b7ea6b96cf4",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4e74999499ac"
     },
     "alerts_l_english.yml:alert_lack_of_resources_delayed": {
       "author": "person_001",
@@ -32006,31 +32410,41 @@
       "author": "person_001",
       "editor": null,
       "en_hash": "5d9c35f7b463",
-      "last_modified": "2026-10-29T15:51:48",
+      "last_modified": "2026-10-29T22:52:42",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "da39a3ee5e6b"
+      "ua_hash": "c37ced659c6a"
     },
     "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_range": {
       "author": "person_001",
       "editor": null,
       "en_hash": "39a30102ec0c",
-      "last_modified": "2026-10-29T15:51:48",
+      "last_modified": "2026-10-29T22:52:42",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "da39a3ee5e6b"
+      "ua_hash": "400dff376b67"
     },
     "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_speed": {
       "author": "person_001",
       "editor": null,
       "en_hash": "edead924891b",
-      "last_modified": "2026-10-29T15:51:48",
+      "last_modified": "2026-10-29T22:52:42",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "15e857e067f6"
+      "ua_hash": "65946e4bd3f7"
+    },
+    "alerts_l_english.yml:alert_out_of_fuel_delayed_subentry_navy_torpedo": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3a29af3e36c6",
+      "last_modified": "2026-10-29T22:52:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a9f0cf7af410"
     },
     "alerts_l_english.yml:alert_out_of_fuel_instant": {
       "author": "person_001",
@@ -32638,6 +33052,86 @@
       "translator": null,
       "ua_hash": "a3d9ec41e53f"
     },
+    "army_l_english.yml:ARMY_NAVIES_TOOLTIP_DETAILED_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "146d1e8f8b83",
+      "last_modified": "2026-10-29T22:55:27",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "24fb12eb9840"
+    },
+    "army_l_english.yml:ARMY_NAVIES_TOOLTIP_DETAILED_MULTIPLE_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5e837f8f7741",
+      "last_modified": "2026-10-29T22:55:27",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7137e5d578f6"
+    },
+    "army_l_english.yml:CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "da39a3ee5e6b",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b858cb282617"
+    },
+    "army_l_english.yml:NAVAL_HEADQUARTER_ASSIGN_ADMIRAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3c13fe1cdcab",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fa91779e9a89"
+    },
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "62222580090e",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c61f14ecc6d7"
+    },
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER_COLORED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1ab9a240c99f",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7a92fb983a0a"
+    },
+    "army_l_english.yml:NAVAL_HEADQUARTER_ROSTER_DELAYED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b54cb6c38384",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8d4a7b2735b6"
+    },
+    "army_l_english.yml:OFFICERS_APPOINT_ADVISOR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8c5b754f979b",
+      "last_modified": "2026-10-29T22:55:27",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3653a58fe7f8"
+    },
     "army_l_english.yml:OFFICERS_SELECT_CUSTOM": {
       "approved_at": "2026-10-27T21:32:37",
       "approved_by": "person_001",
@@ -32650,6 +33144,56 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "2d12e3fb1b3c"
+    },
+    "army_l_english.yml:OFFICER_CORP_AIR_DOCTRINE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "98447d84282e",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b740af453125"
+    },
+    "army_l_english.yml:OFFICER_CORP_ARMY_DOCTRINE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "48cf94fb441d",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2220d6436c41"
+    },
+    "army_l_english.yml:OFFICER_CORP_NAVY_DOCTRINE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9c92a6d5062f",
+      "last_modified": "2026-10-29T23:06:58",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "aed7d2db901c"
+    },
+    "army_l_english.yml:SWITCH_STRATEGIC_REDEPLOYMENT_MODE_DETAILED_2": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1be09ec839c7",
+      "last_modified": "2026-10-29T22:55:27",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8955d1714c3a"
+    },
+    "army_l_english.yml:THEATER_GROUP_NAME_PATTERN": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ff8257d45eaa",
+      "last_modified": "2026-10-29T22:55:55",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "abb28db5d00a"
     },
     "bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-10T22:33:08",
@@ -32950,6 +33494,126 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "fe70bde310d2"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_LAUNCHED_RAIDS_LABEL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ebba22486830",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "dc07fd064b6a"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_MEDAL_TOOLTIP_BRONZE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "26c9451207a8",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9637c945b3aa"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_MEDAL_TOOLTIP_SILVER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a543e05cea0a",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d44c5c320a26"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_PROVINCES_GAINED_PER_YEAR_LABEL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "55dd271b5a5e",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9aaef8ff02b8"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d7bcb4d50e9e",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a13b4007c1fc"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6b58a2d41040",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b09fb6f070f7"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_SWITCHER_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ea637d85981a",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ffa99e58501b"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_THE_GUNS_OF_AUGUST_QUOTE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "46538b1ab4b6",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "76a4d21ceeb8"
+    },
+    "career_profile_achievements_l_english.yml:CAREER_PROFILE_TRIGGER_BONUS_PERCENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4485cb072957",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "01e99f1a79da"
+    },
+    "career_profile_achievements_l_english.yml:DLC_NOT_OWNED_TEXT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "20d717b1e91a",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "70318d0e36a6"
+    },
+    "career_profile_achievements_l_english.yml:DLC_OWNED_TEXT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c8f37baffc5c",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a16893b17fab"
+    },
+    "career_profile_achievements_l_english.yml:REQUIRES_DLC_TEXT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0228959fb6ad",
+      "last_modified": "2026-10-29T23:43:54",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1e3109c8eb43"
     },
     "career_profile_achievements_l_english.yml:TNO_CAREER_PROFILE": {
       "author": "person_001",
