@@ -19080,6 +19080,16 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:ADD_DESIGN_TEMPLATE_BONUS_DESC": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:EFFECT_ACTIVATE_SHINE": [
       {
         "action": "перекладено",
@@ -19100,6 +19110,16 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:EFFECT_ADD_DESIGN_TEMPLATE_BONUS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT": [
       {
         "action": "перекладено",
@@ -19117,6 +19137,16 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_SPECIAL_PROJECT_PROGRESS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
         "to": "translated"
       }
     ],
@@ -19158,6 +19188,16 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:EFFECT_ANNEX_COUNTRY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-31T00:12:10",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:EFFECT_CAPTURE_GENERAL": [
       {
         "action": "перекладено",
@@ -19165,6 +19205,36 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_COMPLETE_SPECIAL_PROJECT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_COMPLETE_SPECIAL_PROTOTYPE_REWARD": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_CONTEXT_SPECIAL_PROJECT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
         "to": "translated"
       }
     ],
@@ -19198,6 +19268,26 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:EFFECT_MARKET_GIVE_MARKET_ACCESS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_POWER_BALANCE_VALUE_MOVED": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:EFFECT_PROMOTE_OFFICER_TO_GENERAL": [
       {
         "action": "перекладено",
@@ -19205,6 +19295,26 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REDUCE_SPECIAL_PROJECT_PROGRESS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_RELEASE_FROM_CAPTIVITY": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
         "to": "translated"
       }
     ],
@@ -19278,6 +19388,26 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:EFFECT_SET_UNIT_ORGANIZATION": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_TEMPORARY_REPAIR_SPEED_MODIFIER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:IDEA_EXPIRED_TT": [
       {
         "action": "перекладено",
@@ -19285,6 +19415,76 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_EFFECT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_EFFECT_NEGATIVE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_FOCUS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_HEADER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_HEADER_NEGATIVE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:STRATEGIC_LOCATION_BUILDING_HEADER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:for_all_options_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
         "to": "translated"
       }
     ],
@@ -19328,6 +19528,46 @@
         "to": "translated"
       }
     ],
+    "effects_l_english.yml:is_chinese_warlord_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:is_chinese_warlord_tt_NOT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:is_literally_china_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:is_literally_china_tt_NOT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
+        "to": "translated"
+      }
+    ],
     "effects_l_english.yml:possible_actions_FROM_can_take_tt": [
       {
         "action": "перекладено",
@@ -19355,6 +19595,16 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:unlock_general_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-31T00:11:50",
         "to": "translated"
       }
     ],
@@ -34177,6 +34427,16 @@
       "translator": null,
       "ua_hash": "f45fe89830d6"
     },
+    "effects_l_english.yml:ADD_DESIGN_TEMPLATE_BONUS_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a39e59be3aee",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4cbcb947678c"
+    },
     "effects_l_english.yml:EFFECT_ACTIVATE_SHINE": {
       "author": "person_001",
       "editor": null,
@@ -34197,6 +34457,16 @@
       "translator": null,
       "ua_hash": "e99b881747d5"
     },
+    "effects_l_english.yml:EFFECT_ADD_DESIGN_TEMPLATE_BONUS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "722d2e8a4165",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d04ab1a46107"
+    },
     "effects_l_english.yml:EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT": {
       "author": "person_001",
       "editor": null,
@@ -34216,6 +34486,16 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "1a975e280105"
+    },
+    "effects_l_english.yml:EFFECT_ADD_SPECIAL_PROJECT_PROGRESS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8d4ac28b7744",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "289a27245572"
     },
     "effects_l_english.yml:EFFECT_ADD_STATE_COMPLIANCE_MODIFIER": {
       "author": "person_001",
@@ -34247,6 +34527,16 @@
       "translator": null,
       "ua_hash": "26c53b3e0ea0"
     },
+    "effects_l_english.yml:EFFECT_ANNEX_COUNTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "abea5a156890",
+      "last_modified": "2026-10-31T00:12:10",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b2ac683965d2"
+    },
     "effects_l_english.yml:EFFECT_CAPTURE_GENERAL": {
       "author": "person_001",
       "editor": null,
@@ -34256,6 +34546,36 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "d61b46136451"
+    },
+    "effects_l_english.yml:EFFECT_COMPLETE_SPECIAL_PROJECT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6ff831d39c05",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5d6b3fd916d5"
+    },
+    "effects_l_english.yml:EFFECT_COMPLETE_SPECIAL_PROTOTYPE_REWARD": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b62e9ce94d18",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1b4ef53ec7f1"
+    },
+    "effects_l_english.yml:EFFECT_CONTEXT_SPECIAL_PROJECT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "24110dfc2ee1",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "24110dfc2ee1"
     },
     "effects_l_english.yml:EFFECT_DEACTIVATE_SHINE": {
       "author": "person_001",
@@ -34287,6 +34607,26 @@
       "translator": null,
       "ua_hash": "8bf51cf2d394"
     },
+    "effects_l_english.yml:EFFECT_MARKET_GIVE_MARKET_ACCESS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2424ef7cd01b",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e77ce3151d75"
+    },
+    "effects_l_english.yml:EFFECT_POWER_BALANCE_VALUE_MOVED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "cafbb0475088",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0da3e5c534fd"
+    },
     "effects_l_english.yml:EFFECT_PROMOTE_OFFICER_TO_GENERAL": {
       "author": "person_001",
       "editor": null,
@@ -34296,6 +34636,26 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "695db666596c"
+    },
+    "effects_l_english.yml:EFFECT_REDUCE_SPECIAL_PROJECT_PROGRESS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ffb5072e4eef",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a778ac246a20"
+    },
+    "effects_l_english.yml:EFFECT_RELEASE_FROM_CAPTIVITY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e33f59aa668e",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6ec81f62d31b"
     },
     "effects_l_english.yml:EFFECT_RELEASE_GENERALS": {
       "author": "person_001",
@@ -34367,6 +34727,26 @@
       "translator": null,
       "ua_hash": "884dad049bdc"
     },
+    "effects_l_english.yml:EFFECT_SET_UNIT_ORGANIZATION": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "758ca0c3c354",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e92f1a97e71c"
+    },
+    "effects_l_english.yml:EFFECT_TEMPORARY_REPAIR_SPEED_MODIFIER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5ef0984056f7",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a92fb8f952ef"
+    },
     "effects_l_english.yml:IDEA_EXPIRED_TT": {
       "author": "person_001",
       "editor": null,
@@ -34376,6 +34756,76 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "54b76caa7ec9"
+    },
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_EFFECT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "51d409887e29",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "dc9aef5125c9"
+    },
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_EFFECT_NEGATIVE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "68637cbfda5c",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8eecf3822a67"
+    },
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_FOCUS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ef1d3c9d2737",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ef1d3c9d2737"
+    },
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_HEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "064950478158",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "21ea85b40a75"
+    },
+    "effects_l_english.yml:REDUCE_FOCUS_DAYS_MULTIPLE_HEADER_NEGATIVE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "04a0b635e353",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fd01ae9984e9"
+    },
+    "effects_l_english.yml:STRATEGIC_LOCATION_BUILDING_HEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "79afa5627ac0",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "79afa5627ac0"
+    },
+    "effects_l_english.yml:for_all_options_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8f8cb7a1de73",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c71a18694d60"
     },
     "effects_l_english.yml:generic_less_threatening_to_accept_tt": {
       "author": "person_001",
@@ -34417,6 +34867,46 @@
       "translator": null,
       "ua_hash": "b790b53ab119"
     },
+    "effects_l_english.yml:is_chinese_warlord_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d8109159c6da",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d1498228ad3c"
+    },
+    "effects_l_english.yml:is_chinese_warlord_tt_NOT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4f0bf0040cb8",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8f6426e61097"
+    },
+    "effects_l_english.yml:is_literally_china_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "69b003696fa3",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "83d032bd981a"
+    },
+    "effects_l_english.yml:is_literally_china_tt_NOT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c86119ba11a0",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c54ac5e1220a"
+    },
     "effects_l_english.yml:possible_actions_FROM_can_take_tt": {
       "author": "person_001",
       "editor": null,
@@ -34446,6 +34936,16 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "6bd9a25e1010"
+    },
+    "effects_l_english.yml:unlock_general_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "439cd54ea297",
+      "last_modified": "2026-10-31T00:11:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f6103ad87482"
     },
     "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-06T12:52:07",
