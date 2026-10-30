@@ -62,6 +62,20 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "deployment_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
+    "effects_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "english/JUNO_characters_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
@@ -18936,6 +18950,414 @@
         "to": "translated"
       }
     ],
+    "deployment_l_english.yml:AIR_DEPLOYMENT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:DEPLOYMENT_EXPERIENCE_ESTIMATED_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:DEPLOYMENT_RAIDS_DESC": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:DEPLOYMENT_RAIDS_EMPTY": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:DEPLOYMENT_TRAINING": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:DEPLOYMENT_TRAINING_MAXVALUE_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:GARRISONS_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:LAND_DEPLOYMENT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:NAVAL_DEPLOYMENT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:OPERATIONS_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:REINFORCEMENT_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:TIMED_ACTIVITY_ENTRY_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "deployment_l_english.yml:UPGRADES_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T12:41:11",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ACTIVATE_SHINE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_CONTESTED_OWNER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_SCIENTIST_ROLE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_STATE_COMPLIANCE_MODIFIER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_STATE_RESISTANCE_MODIFIER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_ADD_THREAT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_CAPTURE_GENERAL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_DEACTIVATE_SHINE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_GENERATE_SCIENTIST_CHARACTER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_GENERATE_SCIENTIST_CHARACTER_TRAIT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_PROMOTE_OFFICER_TO_GENERAL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_RELEASE_GENERALS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REMOVE_CONTESTED_OWNER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REMOVE_CORE_OF": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REMOVE_SCIENTIST_ROLE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:EFFECT_SET_STATE_CATEGORY": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:IDEA_EXPIRED_TT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T13:28:19",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:generic_less_threatening_to_accept_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:generic_more_likely_to_accept_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:if_they_accept_newline_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:if_we_accept_newline_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:possible_actions_FROM_can_take_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:possible_outcomes_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
+    "effects_l_english.yml:they_will_gain_tt": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-10-30T15:44:28",
+        "to": "translated"
+      }
+    ],
     "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": [
       {
         "action": "затверджено",
@@ -33624,6 +34046,406 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "3bd1492e6e3b"
+    },
+    "deployment_l_english.yml:AIR_DEPLOYMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "268c804ea2a2",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "273689bfcd0e"
+    },
+    "deployment_l_english.yml:DEPLOYMENT_EXPERIENCE_ESTIMATED_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fb0fbff406f7",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "194a16f0d3ae"
+    },
+    "deployment_l_english.yml:DEPLOYMENT_RAIDS_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c2dbc86f5df3",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8adccc272a98"
+    },
+    "deployment_l_english.yml:DEPLOYMENT_RAIDS_EMPTY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b422befa1272",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6dddbc411e20"
+    },
+    "deployment_l_english.yml:DEPLOYMENT_TRAINING": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "adc6078c80c6",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "abc0f64282a4"
+    },
+    "deployment_l_english.yml:DEPLOYMENT_TRAINING_MAXVALUE_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "388b92519c40",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7dc217316ad1"
+    },
+    "deployment_l_english.yml:GARRISONS_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d6f39650791e",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "25a9b5690852"
+    },
+    "deployment_l_english.yml:LAND_DEPLOYMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b3486250692d",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1922d1d61a3d"
+    },
+    "deployment_l_english.yml:NAVAL_DEPLOYMENT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2abb450ee809",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a3d706779d87"
+    },
+    "deployment_l_english.yml:OPERATIONS_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4a0acfcaaa36",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "215be0f7b738"
+    },
+    "deployment_l_english.yml:REINFORCEMENT_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f0d4b8b13e07",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8704d700bcba"
+    },
+    "deployment_l_english.yml:TIMED_ACTIVITY_ENTRY_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a265f373f2f5",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a540c7abf606"
+    },
+    "deployment_l_english.yml:UPGRADES_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "02cf9f14cdf1",
+      "last_modified": "2026-10-30T12:41:11",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f45fe89830d6"
+    },
+    "effects_l_english.yml:EFFECT_ACTIVATE_SHINE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9b4d4064365b",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0f04b5eb4b4c"
+    },
+    "effects_l_english.yml:EFFECT_ADD_CONTESTED_OWNER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4b8b626b8a2b",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e99b881747d5"
+    },
+    "effects_l_english.yml:EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e8948f49e8c5",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c982856a8c03"
+    },
+    "effects_l_english.yml:EFFECT_ADD_SCIENTIST_ROLE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9ee72cd770ed",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1a975e280105"
+    },
+    "effects_l_english.yml:EFFECT_ADD_STATE_COMPLIANCE_MODIFIER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "853ae3c7e878",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0823ffaa353c"
+    },
+    "effects_l_english.yml:EFFECT_ADD_STATE_RESISTANCE_MODIFIER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ddae89fa12ee",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5f1deb43b24d"
+    },
+    "effects_l_english.yml:EFFECT_ADD_THREAT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2698e37bc4c0",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "26c53b3e0ea0"
+    },
+    "effects_l_english.yml:EFFECT_CAPTURE_GENERAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d6e4775acf62",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d61b46136451"
+    },
+    "effects_l_english.yml:EFFECT_DEACTIVATE_SHINE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2c4537018496",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6e6bfe0690d9"
+    },
+    "effects_l_english.yml:EFFECT_GENERATE_SCIENTIST_CHARACTER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4e6ae13e281b",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2ca793bc25ab"
+    },
+    "effects_l_english.yml:EFFECT_GENERATE_SCIENTIST_CHARACTER_TRAIT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8bf51cf2d394",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8bf51cf2d394"
+    },
+    "effects_l_english.yml:EFFECT_PROMOTE_OFFICER_TO_GENERAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3cd121c3b77d",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "695db666596c"
+    },
+    "effects_l_english.yml:EFFECT_RELEASE_GENERALS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d07dbeab4d01",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c14276112c19"
+    },
+    "effects_l_english.yml:EFFECT_REMOVE_CONTESTED_OWNER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5e2777b42442",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "cc373d5ab3ae"
+    },
+    "effects_l_english.yml:EFFECT_REMOVE_CORE_OF": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "18c355ac0645",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b5f6eaf141aa"
+    },
+    "effects_l_english.yml:EFFECT_REMOVE_SCIENTIST_ROLE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9c6de8a221d0",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "58a545568ffc"
+    },
+    "effects_l_english.yml:EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b074be27a356",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ac33420667e4"
+    },
+    "effects_l_english.yml:EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "69e6cb8ee374",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3c2246610e1a"
+    },
+    "effects_l_english.yml:EFFECT_SET_STATE_CATEGORY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b07b8e365f76",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "884dad049bdc"
+    },
+    "effects_l_english.yml:IDEA_EXPIRED_TT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3b24c1df426b",
+      "last_modified": "2026-10-30T13:28:19",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "54b76caa7ec9"
+    },
+    "effects_l_english.yml:generic_less_threatening_to_accept_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "11ce7bd63639",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "19eb6bf507a7"
+    },
+    "effects_l_english.yml:generic_more_likely_to_accept_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "02ad2c6df218",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "08256ae8cb43"
+    },
+    "effects_l_english.yml:if_they_accept_newline_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7c6eb62349ec",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e5b567a16eeb"
+    },
+    "effects_l_english.yml:if_we_accept_newline_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f5726076efa6",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b790b53ab119"
+    },
+    "effects_l_english.yml:possible_actions_FROM_can_take_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b46022ff030a",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "63fa0b1efb9c"
+    },
+    "effects_l_english.yml:possible_outcomes_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0040e9cad98a",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b90caf67bca8"
+    },
+    "effects_l_english.yml:they_will_gain_tt": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "17461507d390",
+      "last_modified": "2026-10-30T15:44:28",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6bd9a25e1010"
     },
     "english/bba_bop_l_english.yml:BOP_ACTIVE_RANGE_DESC": {
       "approved_at": "2026-10-06T12:52:07",
