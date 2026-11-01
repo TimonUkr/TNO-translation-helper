@@ -3773,6 +3773,13 @@
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
+    },
+    "state_names_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
     }
   },
   "glossary": [],
@@ -20407,6 +20414,56 @@
         "t": "2026-10-06T12:52:07",
         "to": "approved"
       }
+    ],
+    "state_names_l_english.yml:STATE_1139": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T11:13:30",
+        "to": "translated"
+      }
+    ],
+    "state_names_l_english.yml:STATE_1363_per": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T11:13:30",
+        "to": "translated"
+      }
+    ],
+    "state_names_l_english.yml:STATE_165_spa_por": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T11:13:30",
+        "to": "translated"
+      }
+    ],
+    "state_names_l_english.yml:STATE_1815_ger": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T11:13:30",
+        "to": "translated"
+      }
+    ],
+    "state_names_l_english.yml:STATE_878_vic": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T11:13:30",
+        "to": "translated"
+      }
     ]
   },
   "keys": {
@@ -36346,6 +36403,56 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "fe70bde310d2"
+    },
+    "state_names_l_english.yml:STATE_1139": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "db8bd7c3ead3",
+      "last_modified": "2026-11-01T11:13:30",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a6f7a5673615"
+    },
+    "state_names_l_english.yml:STATE_1363_per": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "719ca2e87097",
+      "last_modified": "2026-11-01T11:13:30",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e96f1e8129a9"
+    },
+    "state_names_l_english.yml:STATE_165_spa_por": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a9ea2330c97a",
+      "last_modified": "2026-11-01T11:13:30",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "098956ff4c13"
+    },
+    "state_names_l_english.yml:STATE_1815_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0745583117f1",
+      "last_modified": "2026-11-01T11:13:30",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "249a4b75cc11"
+    },
+    "state_names_l_english.yml:STATE_878_vic": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e04dc0ba0ae4",
+      "last_modified": "2026-11-01T11:13:30",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9217557830f2"
     }
   },
   "notes": {},
