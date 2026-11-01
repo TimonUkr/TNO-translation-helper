@@ -3774,6 +3774,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "fiscal_crisis_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "state_names_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -20415,6 +20422,36 @@
         "to": "approved"
       }
     ],
+    "fiscal_crisis_l_english.yml:econ_fiscal_crisis_deccat_available": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T21:33:45",
+        "to": "translated"
+      }
+    ],
+    "fiscal_crisis_l_english.yml:fiscal_crisis.0.t": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-01T21:33:45",
+        "to": "translated"
+      }
+    ],
+    "fiscal_crisis_l_english.yml:fiscal_crisis.20.a": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-01T21:33:45",
+        "to": "translated"
+      }
+    ],
     "state_names_l_english.yml:STATE_1139": [
       {
         "action": "перекладено",
@@ -36403,6 +36440,36 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "fe70bde310d2"
+    },
+    "fiscal_crisis_l_english.yml:econ_fiscal_crisis_deccat_available": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "baa3539c22a7",
+      "last_modified": "2026-11-01T21:33:45",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "386d837fda2b"
+    },
+    "fiscal_crisis_l_english.yml:fiscal_crisis.0.t": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8869919ae813",
+      "last_modified": "2026-11-01T21:33:45",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "15192835bff1"
+    },
+    "fiscal_crisis_l_english.yml:fiscal_crisis.20.a": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b604e37772a6",
+      "last_modified": "2026-11-01T21:33:45",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "935f0dc31f77"
     },
     "state_names_l_english.yml:STATE_1139": {
       "author": "person_001",
