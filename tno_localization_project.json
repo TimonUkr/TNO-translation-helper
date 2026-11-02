@@ -3781,6 +3781,20 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "frontend_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
+    "politics_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "state_names_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -20452,6 +20466,726 @@
         "to": "translated"
       }
     ],
+    "frontend_l_english.yml:ACHIEVEMENTS_DIFFICULTY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:FE_DIFFICULTY_EASY_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:FE_DIFFICULTY_HARD_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:FE_DIFFICULTY_NORMAL_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:FE_DIFFICULTY_VERY_EASY_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:FE_DIFFICULTY_VERY_HARD_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:NATO_COUNTERS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:SM_CORNER_SCROLL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:SM_EVENT_SOUNDS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:SM_EVENT_SOUNDS_DESC": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_AAA": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_AAC": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:21:34",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_AAG": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:21:34",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_AAO": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:21:34",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_ADL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_AZH": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_BSQ": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_CNT": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_CTL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_DRL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_FSR": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_FZL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_GAL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_GNS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_IND": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_MEX": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_PAK": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_POR": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_PPR": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_RPP": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_SPR": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_SPS": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "frontend_l_english.yml:custom_diff_strong_TBA": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T19:20:48",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:COMMAND_POWER_CAP_ADD_ADVISOR": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:DRIFT_DIM_RETURN": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:FOCUS_AT_WAR": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_ACTIVE_GOAL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_ADD_IDEA": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_FAILED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_LEADS_TO": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_NOREWARD": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_OBJECTIVE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_SUCCEEDED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_GOAL_SUCCESS_REWARD": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_IDEA_COST_COMPACT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_IDEA_NO_REMOVE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_IDEOLOGY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_INVALID_IDEA_REMOVED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_INVALID_IDEA_REPLACED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_JUSTIFY_WARGOAL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_LEADER": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_NOELECTIONS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_NO_GOAL_SELECTED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_POLITICAL_POWER_INCREASE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_POPULARITY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_RESELECT_GOAL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_SCORE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_SELECT_GOAL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_SELECT_GOAL_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_TIMED_ACTIVITY_FINISHED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POLITICS_TIMED_ACTIVITY_WARGOAL_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:POL_DAILY_CHANGE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RELEASE_NATION": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RELEASE_NATION_NOT_POSSIBLE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RELEASE_NATION_NOT_POSSIBLE_EMPTY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RELEASE_NATION_STATES": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RETURN_TERRITORY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:40:49",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RETURN_TERRITORY_NOT_POSSIBLE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RETURN_TERRITORY_NOT_POSSIBLE_EMPTY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:RETURN_TERRITORY_STATES": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
+    "politics_l_english.yml:manage_occupied_territories_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-02T23:36:37",
+        "to": "translated"
+      }
+    ],
     "state_names_l_english.yml:STATE_1139": [
       {
         "action": "перекладено",
@@ -36470,6 +37204,726 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "935f0dc31f77"
+    },
+    "frontend_l_english.yml:ACHIEVEMENTS_DIFFICULTY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "82dc757f01e5",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2c60802958c3"
+    },
+    "frontend_l_english.yml:FE_DIFFICULTY_EASY_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6f6b35915312",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2fe50442c1dc"
+    },
+    "frontend_l_english.yml:FE_DIFFICULTY_HARD_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "cfedf5065e61",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ac346f86e012"
+    },
+    "frontend_l_english.yml:FE_DIFFICULTY_NORMAL_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "063364bb428b",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b13add7cf399"
+    },
+    "frontend_l_english.yml:FE_DIFFICULTY_VERY_EASY_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "632f36aff0bc",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "bd4e91310b42"
+    },
+    "frontend_l_english.yml:FE_DIFFICULTY_VERY_HARD_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "79485f3e9e9b",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a45d9dbe367c"
+    },
+    "frontend_l_english.yml:NATO_COUNTERS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3af7a09357d7",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7a6943af1040"
+    },
+    "frontend_l_english.yml:SM_CORNER_SCROLL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "531b7f2e379d",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6ba6f1276209"
+    },
+    "frontend_l_english.yml:SM_EVENT_SOUNDS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "08ea1c4e59fb",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4d3b15c74841"
+    },
+    "frontend_l_english.yml:SM_EVENT_SOUNDS_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a669d0806804",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "de62157684f9"
+    },
+    "frontend_l_english.yml:custom_diff_strong_AAA": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9a06cde591d1",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "975a20929aa0"
+    },
+    "frontend_l_english.yml:custom_diff_strong_AAC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c69fb62cfb07",
+      "last_modified": "2026-11-02T19:21:34",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "196cf7e5dccb"
+    },
+    "frontend_l_english.yml:custom_diff_strong_AAG": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "def02e0251b0",
+      "last_modified": "2026-11-02T19:21:34",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da55bafecf08"
+    },
+    "frontend_l_english.yml:custom_diff_strong_AAO": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "cadec287236b",
+      "last_modified": "2026-11-02T19:21:34",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "15c38644d879"
+    },
+    "frontend_l_english.yml:custom_diff_strong_ADL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b68efefc0a51",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a031e2c2a001"
+    },
+    "frontend_l_english.yml:custom_diff_strong_AZH": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c1d9e2d8a71f",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1db963d103a1"
+    },
+    "frontend_l_english.yml:custom_diff_strong_BSQ": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8f3adf9f1a25",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "1d43e8fcf9c3"
+    },
+    "frontend_l_english.yml:custom_diff_strong_CNT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5aaa5ea56f39",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "98c3e9a2b88b"
+    },
+    "frontend_l_english.yml:custom_diff_strong_CTL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9918b9ae7698",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "bca0461941e4"
+    },
+    "frontend_l_english.yml:custom_diff_strong_DRL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a7d8780ff915",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5df50257db38"
+    },
+    "frontend_l_english.yml:custom_diff_strong_FSR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "44e92e7c6a85",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a54ff7a4038c"
+    },
+    "frontend_l_english.yml:custom_diff_strong_FZL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8751a151f4dc",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "35d8ddf6fb34"
+    },
+    "frontend_l_english.yml:custom_diff_strong_GAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "343788742b0d",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0be2a5cfbe59"
+    },
+    "frontend_l_english.yml:custom_diff_strong_GNS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8a272077dee1",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "88797c572539"
+    },
+    "frontend_l_english.yml:custom_diff_strong_IND": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fca71c489839",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c5a1b4ea801b"
+    },
+    "frontend_l_english.yml:custom_diff_strong_MEX": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c1dca2e083a2",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "35a81c5d47ac"
+    },
+    "frontend_l_english.yml:custom_diff_strong_PAK": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7c9fa38f5c6c",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ebd0dfdeb668"
+    },
+    "frontend_l_english.yml:custom_diff_strong_POR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "346e3bf54f4c",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "82e22cc63fd1"
+    },
+    "frontend_l_english.yml:custom_diff_strong_PPR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d2f6a4b98e52",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "468805a7163d"
+    },
+    "frontend_l_english.yml:custom_diff_strong_RPP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bcf32593122b",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b5e85bdecdcd"
+    },
+    "frontend_l_english.yml:custom_diff_strong_SPR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f2b8e09103b4",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "456fd7d69a54"
+    },
+    "frontend_l_english.yml:custom_diff_strong_SPS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4248747f52bd",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e0bca4482629"
+    },
+    "frontend_l_english.yml:custom_diff_strong_TBA": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "57eb5ff866da",
+      "last_modified": "2026-11-02T19:20:48",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "64b0c365a87c"
+    },
+    "politics_l_english.yml:COMMAND_POWER_CAP_ADD_ADVISOR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e9b8d917f6d4",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "bda595a5a116"
+    },
+    "politics_l_english.yml:DRIFT_DIM_RETURN": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b99ce488b43a",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c4754685980b"
+    },
+    "politics_l_english.yml:FOCUS_AT_WAR": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "da8adb620174",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "020c2115484f"
+    },
+    "politics_l_english.yml:POLITICS_ACTIVE_GOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8f53755841e2",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8d7ef297b3f8"
+    },
+    "politics_l_english.yml:POLITICS_ADD_IDEA": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4873b8d013cb",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "68948307a91c"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_FAILED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ebc974d751b6",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f8ea932bd6c8"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_LEADS_TO": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0451761d4acc",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6d27bfb50f75"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_NOREWARD": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d06e0af80e0b",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e6647fdcfde4"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_OBJECTIVE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6dd7639edffb",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "88ce63ea39a0"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_SUCCEEDED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fc2edc573d27",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3afefab2cc5e"
+    },
+    "politics_l_english.yml:POLITICS_GOAL_SUCCESS_REWARD": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e639b8b5a3cc",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2bb41db0ff41"
+    },
+    "politics_l_english.yml:POLITICS_IDEA_COST_COMPACT": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fd55dccc62ee",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fd55dccc62ee"
+    },
+    "politics_l_english.yml:POLITICS_IDEA_NO_REMOVE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "169ed9abb123",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b05e05c55056"
+    },
+    "politics_l_english.yml:POLITICS_IDEOLOGY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7364709ae559",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5d6fc8a02c31"
+    },
+    "politics_l_english.yml:POLITICS_INVALID_IDEA_REMOVED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8587f35997fb",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e7facb43003f"
+    },
+    "politics_l_english.yml:POLITICS_INVALID_IDEA_REPLACED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1bbbac875be3",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3e1803ba9c5d"
+    },
+    "politics_l_english.yml:POLITICS_JUSTIFY_WARGOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "86fe3160dae2",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "298a5bdf00ad"
+    },
+    "politics_l_english.yml:POLITICS_LEADER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "020448bdd505",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a019c6370e0b"
+    },
+    "politics_l_english.yml:POLITICS_NOELECTIONS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3d1c86f13cfb",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "af4e4ddf1ecc"
+    },
+    "politics_l_english.yml:POLITICS_NO_GOAL_SELECTED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fc8ad168ad90",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0ecd21957465"
+    },
+    "politics_l_english.yml:POLITICS_POLITICAL_POWER_INCREASE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "aba3bb38ec7e",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a73e4d3ecb3a"
+    },
+    "politics_l_english.yml:POLITICS_POPULARITY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "aa998a06f7d6",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ed92360ca2fa"
+    },
+    "politics_l_english.yml:POLITICS_RESELECT_GOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2d919d2fd3d8",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "627d351c51a2"
+    },
+    "politics_l_english.yml:POLITICS_SCORE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "86d0849ccfe2",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "86d0849ccfe2"
+    },
+    "politics_l_english.yml:POLITICS_SELECT_GOAL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "91ae1a91e8d3",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7b2af4b4d58e"
+    },
+    "politics_l_english.yml:POLITICS_SELECT_GOAL_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ba6fde71116b",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2f92373b1e84"
+    },
+    "politics_l_english.yml:POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ef13f446e8f0",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "895e01428dd7"
+    },
+    "politics_l_english.yml:POLITICS_TIMED_ACTIVITY_FINISHED": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ded159ec3fe2",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "23e26b1c68c6"
+    },
+    "politics_l_english.yml:POLITICS_TIMED_ACTIVITY_WARGOAL_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c6a43595018d",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "258eb54b7e68"
+    },
+    "politics_l_english.yml:POL_DAILY_CHANGE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dffd95170224",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2bc107456dd6"
+    },
+    "politics_l_english.yml:RELEASE_NATION": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d39642c66f9e",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ece3cedc8846"
+    },
+    "politics_l_english.yml:RELEASE_NATION_NOT_POSSIBLE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6c6ca86cead1",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d2896b7e4764"
+    },
+    "politics_l_english.yml:RELEASE_NATION_NOT_POSSIBLE_EMPTY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7a9e1ee82585",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "46be8d73ee12"
+    },
+    "politics_l_english.yml:RELEASE_NATION_STATES": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b7581c9e4984",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e3817bc67c74"
+    },
+    "politics_l_english.yml:RETURN_TERRITORY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5f479ec51020",
+      "last_modified": "2026-11-02T23:40:49",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "11cccfb604eb"
+    },
+    "politics_l_english.yml:RETURN_TERRITORY_NOT_POSSIBLE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3826389418b4",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f80751b6b923"
+    },
+    "politics_l_english.yml:RETURN_TERRITORY_NOT_POSSIBLE_EMPTY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fae538b9e0ae",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ee0339e3e4a1"
+    },
+    "politics_l_english.yml:RETURN_TERRITORY_STATES": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f597152f992a",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b07b7a42dcaf"
+    },
+    "politics_l_english.yml:manage_occupied_territories_desc": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c551c5d93bf5",
+      "last_modified": "2026-11-02T23:36:37",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "803ec1833a1f"
     },
     "state_names_l_english.yml:STATE_1139": {
       "author": "person_001",
