@@ -3808,6 +3808,13 @@
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
+    },
+    "subscription_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
     }
   },
   "glossary": [],
@@ -21332,6 +21339,166 @@
         "t": "2026-11-01T11:13:30",
         "to": "translated"
       }
+    ],
+    "subscription_l_english.yml:ARMS_AGAINST_TYRANNY": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:BY_BLOOD_ALONE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc036": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc038": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc040": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc043": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc046": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc049": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc051": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc052": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:GOTTERDAMMERUNG": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:GRAVEYARD_OF_EMPIRES": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:NO_COMPROMISE_NO_SURRENDER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:PEACE_FOR_OUR_TIME": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:THUNDER_AT_OUR_GATES": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
+    ],
+    "subscription_l_english.yml:TRIAL_OF_ALLEGIANCE": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T23:48:43",
+        "to": "translated"
+      }
     ]
   },
   "keys": {
@@ -38161,6 +38328,166 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "9217557830f2"
+    },
+    "subscription_l_english.yml:ARMS_AGAINST_TYRANNY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1cf195a16940",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9d65048fc45a"
+    },
+    "subscription_l_english.yml:BY_BLOOD_ALONE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "60ddec19df7b",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0e35343f66d0"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc036": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4e546e7e54aa",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "22d151853203"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc038": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c4bf1912f8e8",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "35071f5662aa"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc040": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4f2df087152a",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "22c31d0727bd"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc043": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fbad7b7d4487",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "55495ea8925b"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc046": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3d10f3591a7f",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ec17c437e62a"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc049": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "067d24754923",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0c7821b08ce1"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc051": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e937d92aa221",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "74ae94837664"
+    },
+    "subscription_l_english.yml:DLC_DESCRIPTION_dlc052": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c9b42b8e7d5b",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4489f953fb27"
+    },
+    "subscription_l_english.yml:GOTTERDAMMERUNG": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4e9f6be2c3a0",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "484b27b69e10"
+    },
+    "subscription_l_english.yml:GRAVEYARD_OF_EMPIRES": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7f7f5ddbf034",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b3bc4bd24de0"
+    },
+    "subscription_l_english.yml:NO_COMPROMISE_NO_SURRENDER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3abc0a781782",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2c19283f42f6"
+    },
+    "subscription_l_english.yml:PEACE_FOR_OUR_TIME": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "abbebd8b4e81",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "61f9c6d45891"
+    },
+    "subscription_l_english.yml:THUNDER_AT_OUR_GATES": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "8aa5add7bd9b",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b39b14879bbb"
+    },
+    "subscription_l_english.yml:TRIAL_OF_ALLEGIANCE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dabe3bb17c17",
+      "last_modified": "2026-11-03T23:48:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "96f333db3a0d"
     }
   },
   "notes": {},
