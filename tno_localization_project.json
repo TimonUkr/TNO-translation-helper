@@ -3795,6 +3795,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "state_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "state_names_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -21186,6 +21193,96 @@
         "to": "translated"
       }
     ],
+    "state_l_english.yml:OCCUPATION_BREAKDOWN_ENTRY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:PROVINCE_BUILDING_LEVEL": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_BUILDING_LEVEL_SHARED_SLOTS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_CLAIM": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_CONTESTED_OWNER": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_CONVERT_BUILDING": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_CORE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_NO_RESOURCES": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
+    "state_l_english.yml:STATE_UPGRADE_BUILDING": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-03T15:55:15",
+        "to": "translated"
+      }
+    ],
     "state_names_l_english.yml:STATE_1139": [
       {
         "action": "перекладено",
@@ -37924,6 +38021,96 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "803ec1833a1f"
+    },
+    "state_l_english.yml:OCCUPATION_BREAKDOWN_ENTRY": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "936fe1b5146e",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "39c1f28d63b7"
+    },
+    "state_l_english.yml:PROVINCE_BUILDING_LEVEL": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "456a918b7b5c",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "10885ecb67f3"
+    },
+    "state_l_english.yml:STATE_BUILDING_LEVEL_SHARED_SLOTS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "24423e70e377",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "24423e70e377"
+    },
+    "state_l_english.yml:STATE_CLAIM": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1a5f239aff65",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da155953d959"
+    },
+    "state_l_english.yml:STATE_CONTESTED_OWNER": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "09d1930e0a5c",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "749ecb008200"
+    },
+    "state_l_english.yml:STATE_CONVERT_BUILDING": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6211a83119a4",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "53b2203e1c01"
+    },
+    "state_l_english.yml:STATE_CORE": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "31e7eb2e3ac4",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e640ef2477c2"
+    },
+    "state_l_english.yml:STATE_NO_RESOURCES": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e17aedb375c5",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "00412ad2d318"
+    },
+    "state_l_english.yml:STATE_UPGRADE_BUILDING": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "469a9c6c8b48",
+      "last_modified": "2026-11-03T15:55:15",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "aeb02a11a2e3"
     },
     "state_names_l_english.yml:STATE_1139": {
       "author": "person_001",
