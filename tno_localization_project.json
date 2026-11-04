@@ -3815,6 +3815,13 @@
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
+    },
+    "tactics_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
     }
   },
   "glossary": [],
@@ -21499,6 +21506,86 @@
         "t": "2026-11-03T23:48:43",
         "to": "translated"
       }
+    ],
+    "tactics_l_english.yml:tactic_sf_ambush": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_armor_supported_assault": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_barrage": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_defense": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_fortify": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_mouse_holing": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_sf_storm": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
+    ],
+    "tactics_l_english.yml:tactic_urban_defense": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T00:11:44",
+        "to": "translated"
+      }
     ]
   },
   "keys": {
@@ -38488,6 +38575,86 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "96f333db3a0d"
+    },
+    "tactics_l_english.yml:tactic_sf_ambush": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f4ddedd895a5",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f8a598b09791"
+    },
+    "tactics_l_english.yml:tactic_sf_armor_supported_assault": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ad59978d3972",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4c8f03efea3d"
+    },
+    "tactics_l_english.yml:tactic_sf_barrage": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5c2eb74bf813",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5d6fd5980ebf"
+    },
+    "tactics_l_english.yml:tactic_sf_defense": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c29e9b28b41b",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a6af47f2aa3e"
+    },
+    "tactics_l_english.yml:tactic_sf_fortify": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "60752fed3b08",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "54e38394bc0d"
+    },
+    "tactics_l_english.yml:tactic_sf_mouse_holing": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4d114ffc33ca",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "459f1b50926b"
+    },
+    "tactics_l_english.yml:tactic_sf_storm": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "116ee4be2534",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "015ca3b4fa2a"
+    },
+    "tactics_l_english.yml:tactic_urban_defense": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a071ff984802",
+      "last_modified": "2026-11-05T00:11:44",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "386a592a7377"
     }
   },
   "notes": {},
