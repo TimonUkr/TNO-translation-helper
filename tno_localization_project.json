@@ -1,5 +1,12 @@
 {
   "files": {
+    "TNO_Cultures_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_Free_Aviators_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
@@ -3822,11 +3829,48 @@
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
+    },
+    "terrain_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
     }
   },
   "glossary": [],
   "group_assign": {},
   "history": {
+    "TNO_Cultures_l_english.yml:culture_icon_container_culture_title_marker": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-06T00:10:02",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.2": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-06T00:10:02",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.3": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-06T00:10:02",
+        "to": "translated"
+      }
+    ],
     "TNO_Free_Aviators_l_english.yml:FAV.3.a": [
       {
         "action": "відправлено на перевірку",
@@ -21586,9 +21630,59 @@
         "t": "2026-11-05T00:11:44",
         "to": "translated"
       }
+    ],
+    "terrain_l_english.yml:eastern_europe": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T22:58:25",
+        "to": "translated"
+      }
+    ],
+    "terrain_l_english.yml:gangetic_plain": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-05T22:58:25",
+        "to": "translated"
+      }
     ]
   },
   "keys": {
+    "TNO_Cultures_l_english.yml:culture_icon_container_culture_title_marker": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "54709bedf53d",
+      "last_modified": "2026-11-06T00:10:02",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d9621a6d8c40"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.2": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b11d750918c4",
+      "last_modified": "2026-11-06T00:10:02",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "831c11f1ce39"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.3": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b31632a80f75",
+      "last_modified": "2026-11-06T00:10:02",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "afe2fb1cf111"
+    },
     "TNO_Free_Aviators_l_english.yml:FAV.3.a": {
       "author": "person_002",
       "editor": null,
@@ -38655,6 +38749,26 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "386a592a7377"
+    },
+    "terrain_l_english.yml:eastern_europe": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "25e98506f453",
+      "last_modified": "2026-11-05T22:58:25",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "cfce3d26f4ba"
+    },
+    "terrain_l_english.yml:gangetic_plain": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "72d2f493de44",
+      "last_modified": "2026-11-05T22:58:25",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "cec322139621"
     }
   },
   "notes": {},
