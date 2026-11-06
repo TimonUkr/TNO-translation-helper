@@ -3841,6 +3841,16 @@
   "glossary": [],
   "group_assign": {},
   "history": {
+    "TNO_Cultures_l_english.yml:TUR_turkification_process": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-07T00:09:56",
+        "to": "translated"
+      }
+    ],
     "TNO_Cultures_l_english.yml:culture_icon_container_culture_title_marker": [
       {
         "action": "переклад виправлено",
@@ -21653,6 +21663,16 @@
     ]
   },
   "keys": {
+    "TNO_Cultures_l_english.yml:TUR_turkification_process": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "04077c47ffe5",
+      "last_modified": "2026-11-07T00:09:56",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "72c4c58596b2"
+    },
     "TNO_Cultures_l_english.yml:culture_icon_container_culture_title_marker": {
       "author": "person_001",
       "editor": null,
