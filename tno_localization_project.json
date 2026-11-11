@@ -3848,6 +3848,66 @@
   "glossary": [],
   "group_assign": {},
   "history": {
+    "TNO_Cultures_l_english.yml:IBR_independent_basque": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-11T12:01:43",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:IBR_independent_catalan": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-11T12:01:43",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:IBR_regional_basque": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-11T12:01:43",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:IBR_regional_catalan": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-11T12:01:43",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:MOR_35_jewish_part": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-12T00:56:04",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:MOR_35_settler_part": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-12T00:56:04",
+        "to": "translated"
+      }
+    ],
     "TNO_Cultures_l_english.yml:TUR_turkification_process": [
       {
         "action": "перекладено",
@@ -3901,6 +3961,26 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-11T00:14:58",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.128": [
+      {
+        "action": "перекладено",
+        "by": "person_001",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-12T00:56:04",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.13": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T00:56:04",
         "to": "translated"
       }
     ],
@@ -21900,6 +21980,66 @@
     ]
   },
   "keys": {
+    "TNO_Cultures_l_english.yml:IBR_independent_basque": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "944b0ec2225e",
+      "last_modified": "2026-11-11T12:01:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8a436b212919"
+    },
+    "TNO_Cultures_l_english.yml:IBR_independent_catalan": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9056bad41801",
+      "last_modified": "2026-11-11T12:01:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "33fd833a6ab3"
+    },
+    "TNO_Cultures_l_english.yml:IBR_regional_basque": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1c69cf9910c1",
+      "last_modified": "2026-11-11T12:01:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a9b7e63e5859"
+    },
+    "TNO_Cultures_l_english.yml:IBR_regional_catalan": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1fffd4e0af6f",
+      "last_modified": "2026-11-11T12:01:43",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "808f31109a89"
+    },
+    "TNO_Cultures_l_english.yml:MOR_35_jewish_part": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5e671e928af2",
+      "last_modified": "2026-11-12T00:56:04",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b2098c531ad6"
+    },
+    "TNO_Cultures_l_english.yml:MOR_35_settler_part": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "aba0ea890c82",
+      "last_modified": "2026-11-12T00:56:04",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d21791af36ff"
+    },
     "TNO_Cultures_l_english.yml:TUR_turkification_process": {
       "author": "person_001",
       "editor": null,
@@ -21939,6 +22079,26 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "e0828edb4de3"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.128": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "89cb44810cd8",
+      "last_modified": "2026-11-12T00:56:04",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "82007018c6d7"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.13": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0fdbd0d41613",
+      "last_modified": "2026-11-12T00:56:04",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2190e98a39cd"
     },
     "TNO_Cultures_l_english.yml:var_nationality.2": {
       "author": "person_001",
