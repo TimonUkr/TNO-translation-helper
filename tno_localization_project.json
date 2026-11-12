@@ -3856,6 +3856,14 @@
         "note": "",
         "t": "2026-11-11T12:01:43",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T16:11:47",
+        "to": "translated"
       }
     ],
     "TNO_Cultures_l_english.yml:IBR_independent_catalan": [
@@ -3875,6 +3883,14 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-11-11T12:01:43",
+        "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T16:11:47",
         "to": "translated"
       }
     ],
@@ -3981,6 +3997,36 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-12T00:56:04",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.14": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T16:11:47",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.15": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T16:11:47",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.16": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-12T16:11:47",
         "to": "translated"
       }
     ],
@@ -21984,11 +22030,11 @@
       "author": "person_001",
       "editor": null,
       "en_hash": "944b0ec2225e",
-      "last_modified": "2026-11-11T12:01:43",
+      "last_modified": "2026-11-12T16:11:47",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "8a436b212919"
+      "ua_hash": "6e61783184ab"
     },
     "TNO_Cultures_l_english.yml:IBR_independent_catalan": {
       "author": "person_001",
@@ -22004,11 +22050,11 @@
       "author": "person_001",
       "editor": null,
       "en_hash": "1c69cf9910c1",
-      "last_modified": "2026-11-11T12:01:43",
+      "last_modified": "2026-11-12T16:11:47",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "a9b7e63e5859"
+      "ua_hash": "920be378f918"
     },
     "TNO_Cultures_l_english.yml:IBR_regional_catalan": {
       "author": "person_001",
@@ -22099,6 +22145,36 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "2190e98a39cd"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.14": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3cfab4fced9f",
+      "last_modified": "2026-11-12T16:11:47",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a57ebe45ba10"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.15": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "658d4b6ba8e7",
+      "last_modified": "2026-11-12T16:11:47",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8faadd4a7276"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.16": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "82be8ec98d0d",
+      "last_modified": "2026-11-12T16:11:47",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5564326ce282"
     },
     "TNO_Cultures_l_english.yml:var_nationality.2": {
       "author": "person_001",
