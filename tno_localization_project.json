@@ -3745,6 +3745,13 @@
       "manual_status": null,
       "technical_state": "unknown",
       "translators": []
+    },
+    "ledger_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
     }
   },
   "glossary": [],
@@ -17559,6 +17566,16 @@
         "from": "translated",
         "note": "",
         "t": "2026-10-06T12:52:07",
+        "to": "approved"
+      }
+    ],
+    "ledger_l_english.yml:LEDGER_TITLE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-27T10:07:12",
         "to": "approved"
       }
     ]
@@ -31382,6 +31399,18 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "fe70bde310d2"
+    },
+    "ledger_l_english.yml:LEDGER_TITLE": {
+      "approved_at": "2026-10-27T10:07:12",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "1aa2f31ee7cc",
+      "last_modified": "2026-10-27T10:07:12",
+      "last_reviewed": "2026-10-27T10:07:12",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "72f4380fe0f0"
     }
   },
   "notes": {},
