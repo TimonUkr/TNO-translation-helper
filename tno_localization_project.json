@@ -1,5 +1,12 @@
 {
   "files": {
+    "TNO_Algeria_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_Cultures_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -29,6 +36,13 @@
       "translators": []
     },
     "TNO_Germany_Bormann_Kartenhaus_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
+    "TNO_Germany_Bormann_l_english.yml": {
       "editors": [],
       "last_checked": null,
       "manual_status": null,
@@ -90,7 +104,21 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "core_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "deployment_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
+    "diplomacy_l_english.yml": {
       "editors": [],
       "last_checked": null,
       "manual_status": null,
@@ -3869,6 +3897,96 @@
   "glossary": [],
   "group_assign": {},
   "history": {
+    "TNO_Algeria_l_english.yml:ALG": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:29:38",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_ADJ": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:10",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_DEF": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:29:46",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_french": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:12",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_french_ADJ": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:17",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_french_DEF": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:15",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_native_despotism": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:18",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_native_despotism_DEF": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:30:20",
+        "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:Algeria_Skeleton.9.a": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:28:54",
+        "to": "approved"
+      }
+    ],
     "TNO_Cultures_l_english.yml:IBR_independent_basque": [
       {
         "action": "перекладено",
@@ -4530,6 +4648,56 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.158.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:35:36",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.159.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:35:36",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.160.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T19:00:21",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.162.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T19:00:21",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.8.d": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:35:36",
         "to": "translated"
       }
     ],
@@ -19595,6 +19763,114 @@
         "to": "translated"
       }
     ],
+    "core_l_english.yml:RAILWAY_IN_COOLDOWN": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:42:13",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:42:16",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:RAILWAY_UPGRADE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:42:00",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:42:02",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:39:57",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:40:00",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP_WITH_XP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:40:19",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:40:21",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP_WITH_XP_COST_FACTOR": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:40:40",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:40:41",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:UNIT_SPEED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:39:43",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:39:46",
+        "to": "approved"
+      }
+    ],
     "deployment_l_english.yml:AIR_DEPLOYMENT": [
       {
         "action": "переклад виправлено",
@@ -19723,6 +19999,100 @@
         "note": "",
         "t": "2026-10-30T12:41:11",
         "to": "translated"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_CANCEL_IMPROVERELATION_ACTION_DESC": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:57",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:55",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_DESC": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:51",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_REQUEST_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:39",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:41",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_TITLE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:49:53",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:DIPLOMACY_PEACE_PROPOSAL_REQUEST_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:51:09",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:51:10",
+        "to": "approved"
+      }
+    ],
+    "diplomacy_l_english.yml:GOOD_BAD_RATIO": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:50:53",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:50:54",
+        "to": "approved"
       }
     ],
     "effects_l_english.yml:ADD_DESIGN_TEMPLATE_BONUS_DESC": [
@@ -22215,6 +22585,114 @@
     ]
   },
   "keys": {
+    "TNO_Algeria_l_english.yml:ALG": {
+      "approved_at": "2026-11-13T18:29:38",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "16248241760e",
+      "last_modified": "2026-11-13T18:29:38",
+      "last_reviewed": "2026-11-13T18:29:38",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "16248241760e"
+    },
+    "TNO_Algeria_l_english.yml:ALG_ADJ": {
+      "approved_at": "2026-11-13T18:30:10",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "6d7d73c8600f",
+      "last_modified": "2026-11-13T18:30:10",
+      "last_reviewed": "2026-11-13T18:30:10",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "6d7d73c8600f"
+    },
+    "TNO_Algeria_l_english.yml:ALG_DEF": {
+      "approved_at": "2026-11-13T18:29:46",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "1e23114f0ed9",
+      "last_modified": "2026-11-13T18:29:46",
+      "last_reviewed": "2026-11-13T18:29:46",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "1e23114f0ed9"
+    },
+    "TNO_Algeria_l_english.yml:ALG_french": {
+      "approved_at": "2026-11-13T18:30:12",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "16248241760e",
+      "last_modified": "2026-11-13T18:30:12",
+      "last_reviewed": "2026-11-13T18:30:12",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "16248241760e"
+    },
+    "TNO_Algeria_l_english.yml:ALG_french_ADJ": {
+      "approved_at": "2026-11-13T18:30:17",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "db50055215a6",
+      "last_modified": "2026-11-13T18:30:17",
+      "last_reviewed": "2026-11-13T18:30:17",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "db50055215a6"
+    },
+    "TNO_Algeria_l_english.yml:ALG_french_DEF": {
+      "approved_at": "2026-11-13T18:30:15",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "1e23114f0ed9",
+      "last_modified": "2026-11-13T18:30:15",
+      "last_reviewed": "2026-11-13T18:30:15",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "1e23114f0ed9"
+    },
+    "TNO_Algeria_l_english.yml:ALG_native_despotism": {
+      "approved_at": "2026-11-13T18:30:18",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "08d49bb50137",
+      "last_modified": "2026-11-13T18:30:18",
+      "last_reviewed": "2026-11-13T18:30:18",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "08d49bb50137"
+    },
+    "TNO_Algeria_l_english.yml:ALG_native_despotism_DEF": {
+      "approved_at": "2026-11-13T18:30:20",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "08d49bb50137",
+      "last_modified": "2026-11-13T18:30:20",
+      "last_reviewed": "2026-11-13T18:30:20",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "08d49bb50137"
+    },
+    "TNO_Algeria_l_english.yml:Algeria_Skeleton.9.a": {
+      "approved_at": "2026-11-13T18:28:54",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "da39a3ee5e6b",
+      "last_modified": "2026-11-13T18:28:54",
+      "last_reviewed": "2026-11-13T18:28:54",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "da39a3ee5e6b"
+    },
     "TNO_Cultures_l_english.yml:IBR_independent_basque": {
       "author": "person_001",
       "editor": null,
@@ -22814,6 +23292,56 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "a2ddbb2e31f7"
+    },
+    "TNO_Germany_Bormann_l_english.yml:bormann.158.desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d82ed886a4f4",
+      "last_modified": "2026-11-13T18:35:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f32c9c566ce3"
+    },
+    "TNO_Germany_Bormann_l_english.yml:bormann.159.desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "6a15b3eda545",
+      "last_modified": "2026-11-13T18:35:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8b16019f7dce"
+    },
+    "TNO_Germany_Bormann_l_english.yml:bormann.160.desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "077daf0661c7",
+      "last_modified": "2026-11-13T19:00:21",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "477b78fe87b7"
+    },
+    "TNO_Germany_Bormann_l_english.yml:bormann.162.desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "531f6c2c5ca2",
+      "last_modified": "2026-11-13T19:00:21",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fa2703884be9"
+    },
+    "TNO_Germany_Bormann_l_english.yml:bormann.8.d": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4a897087d0f3",
+      "last_modified": "2026-11-13T18:35:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "5e9b8776c31c"
     },
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": {
       "author": "person_001",
@@ -37142,6 +37670,84 @@
       "translator": null,
       "ua_hash": "3bd1492e6e3b"
     },
+    "core_l_english.yml:RAILWAY_IN_COOLDOWN": {
+      "approved_at": "2026-11-13T18:42:16",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4cab907e9de3",
+      "last_modified": "2026-11-13T18:42:16",
+      "last_reviewed": "2026-11-13T18:42:16",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "4777f11f9615"
+    },
+    "core_l_english.yml:RAILWAY_UPGRADE": {
+      "approved_at": "2026-11-13T18:42:02",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "013d944259e8",
+      "last_modified": "2026-11-13T18:42:02",
+      "last_reviewed": "2026-11-13T18:42:02",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "58778c182323"
+    },
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP": {
+      "approved_at": "2026-11-13T18:40:00",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "65bd4ffd0f33",
+      "last_modified": "2026-11-13T18:40:00",
+      "last_reviewed": "2026-11-13T18:40:00",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "1df70293eaf2"
+    },
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP_WITH_XP": {
+      "approved_at": "2026-11-13T18:40:21",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "81309e2b6666",
+      "last_modified": "2026-11-13T18:40:21",
+      "last_reviewed": "2026-11-13T18:40:21",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "029bf39181aa"
+    },
+    "core_l_english.yml:RESEARCH_TIME_TOOLTIP_WITH_XP_COST_FACTOR": {
+      "approved_at": "2026-11-13T18:40:41",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "b04e8731408e",
+      "last_modified": "2026-11-13T18:40:41",
+      "last_reviewed": "2026-11-13T18:40:41",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e9d623c3ce81"
+    },
+    "core_l_english.yml:UNIT_SPEED": {
+      "approved_at": "2026-11-13T18:39:46",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e38f77ead1d5",
+      "last_modified": "2026-11-13T18:39:46",
+      "last_reviewed": "2026-11-13T18:39:46",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "100f8d2bd799"
+    },
     "deployment_l_english.yml:AIR_DEPLOYMENT": {
       "author": "person_001",
       "editor": null,
@@ -37271,6 +37877,93 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "f45fe89830d6"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_CANCEL_IMPROVERELATION_ACTION_DESC": {
+      "approved_at": "2026-11-13T18:49:57",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "2d00d725d778",
+      "last_modified": "2026-11-13T18:49:57",
+      "last_reviewed": "2026-11-13T18:49:57",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e0a6fcf85384"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT": {
+      "approved_at": "2026-11-13T18:49:55",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "e9ee2801dcdf",
+      "last_modified": "2026-11-13T18:49:55",
+      "last_reviewed": "2026-11-13T18:49:55",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "80582a2f060b"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_DESC": {
+      "approved_at": "2026-11-13T18:49:51",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "4a2aef7b4563",
+      "last_modified": "2026-11-13T18:49:51",
+      "last_reviewed": "2026-11-13T18:49:51",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "76881dddf0b3"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_REQUEST_DESC": {
+      "approved_at": "2026-11-13T18:49:41",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "1e8dd08b72dc",
+      "last_modified": "2026-11-13T18:49:41",
+      "last_reviewed": "2026-11-13T18:49:41",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "89f7c8cd7285"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_NONAGGRESSIONPACT_TITLE": {
+      "approved_at": "2026-11-13T18:49:53",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "e9ee2801dcdf",
+      "last_modified": "2026-11-13T18:49:53",
+      "last_reviewed": "2026-11-13T18:49:53",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "80582a2f060b"
+    },
+    "diplomacy_l_english.yml:DIPLOMACY_PEACE_PROPOSAL_REQUEST_DESC": {
+      "approved_at": "2026-11-13T18:51:10",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "b143a02bff40",
+      "last_modified": "2026-11-13T18:51:10",
+      "last_reviewed": "2026-11-13T18:51:10",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "201830fd1134"
+    },
+    "diplomacy_l_english.yml:GOOD_BAD_RATIO": {
+      "approved_at": "2026-11-13T18:50:54",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "cbad206bd422",
+      "last_modified": "2026-11-13T18:50:54",
+      "last_reviewed": "2026-11-13T18:50:54",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "94aae2a8c9f7"
     },
     "effects_l_english.yml:ADD_DESIGN_TEMPLATE_BONUS_DESC": {
       "author": "person_001",
