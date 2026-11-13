@@ -7,6 +7,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "TNO_Dahomey_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_Free_Aviators_l_english.yml": {
       "editors": [],
       "last_checked": "2026-10-19T21:27:09",
@@ -4163,6 +4170,16 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-09T19:24:09",
+        "to": "translated"
+      }
+    ],
+    "TNO_Dahomey_l_english.yml:POLITICS_JEAN_BAPTISTE_HACHEME_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T18:20:06",
         "to": "translated"
       }
     ],
@@ -22437,6 +22454,16 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "5bd8eba8e4f1"
+    },
+    "TNO_Dahomey_l_english.yml:POLITICS_JEAN_BAPTISTE_HACHEME_DESC": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e01db39b1f98",
+      "last_modified": "2026-11-13T18:20:06",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "cfb21e66b3ab"
     },
     "TNO_Free_Aviators_l_english.yml:FAV.3.a": {
       "author": "person_002",
