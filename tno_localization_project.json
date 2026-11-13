@@ -4018,6 +4018,14 @@
         "note": "",
         "t": "2026-11-12T16:11:47",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T14:18:50",
+        "to": "translated"
       }
     ],
     "TNO_Cultures_l_english.yml:var_nationality.16": [
@@ -4027,6 +4035,26 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-12T16:11:47",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.17": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T14:18:50",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.18": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T14:18:50",
         "to": "translated"
       }
     ],
@@ -22160,11 +22188,11 @@
       "author": "person_001",
       "editor": null,
       "en_hash": "658d4b6ba8e7",
-      "last_modified": "2026-11-12T16:11:47",
+      "last_modified": "2026-11-13T14:18:50",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
-      "ua_hash": "8faadd4a7276"
+      "ua_hash": "4d7259354a6d"
     },
     "TNO_Cultures_l_english.yml:var_nationality.16": {
       "author": "person_001",
@@ -22175,6 +22203,26 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "5564326ce282"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.17": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "d301a0959537",
+      "last_modified": "2026-11-13T14:18:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0771f7875bd0"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.18": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e781a2c189fa",
+      "last_modified": "2026-11-13T14:18:50",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7a3e07721acb"
     },
     "TNO_Cultures_l_english.yml:var_nationality.2": {
       "author": "person_001",
