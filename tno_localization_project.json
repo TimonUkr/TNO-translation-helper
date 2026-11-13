@@ -21,6 +21,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_victory_points_l_english.yml": {
       "editors": [
         "person_001"
@@ -3802,6 +3809,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "ledger_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "politics_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -4379,6 +4393,126 @@
         "from": "translated",
         "note": "",
         "t": "2026-10-06T10:56:58",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Base_l_english.yml:reich.7.d_goering": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T12:01:34",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_LogList_dbg_kill_the_church": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGName_Formatted_7_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Allied": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Dismantled": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Immutable": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Opposition": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Supportive": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_ConservativeName": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_MilitaristName": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_ReformistName": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
+        "to": "translated"
+      }
+    ],
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:TNO_Bormann_Kartenhaus_Card_LoyaltyBar_Base_ttd": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-13T11:55:59",
         "to": "translated"
       }
     ],
@@ -21262,6 +21396,16 @@
         "to": "translated"
       }
     ],
+    "ledger_l_english.yml:LEDGER_TITLE": [
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-10-27T10:07:12",
+        "to": "approved"
+      }
+    ],
     "politics_l_english.yml:COMMAND_POWER_CAP_ADD_ADVISOR": [
       {
         "action": "перекладено",
@@ -22523,6 +22667,126 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "06fdc29e14ab"
+    },
+    "TNO_Germany_Base_l_english.yml:reich.7.d_goering": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "7ff7c2375e15",
+      "last_modified": "2026-11-13T12:01:34",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "11c228f16a1a"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_LogList_dbg_kill_the_church": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f1ff5d12ccc6",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "432eb3520eb5"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGName_Formatted_7_tt": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "796552f872c9",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b62d7ccea265"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Allied": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4b9ca064d1ae",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "d36d21c90e2d"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Dismantled": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "5c4fc359302d",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "2463363ac79d"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Immutable": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e7afb5ca62b1",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "da526cc13b03"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Opposition": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d90dc2a301e0",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c72b020d41ba"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIGType_Supportive": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "6f7942a82e75",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "507da58d4514"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_ConservativeName": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "7c5a404aca24",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4742aca8ba80"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_MilitaristName": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "cd6251251d4d",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e640a83b6a3d"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:BOR_SIG_Log_ReformistName": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "a97818f5788d",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "54be6011b0d5"
+    },
+    "TNO_Germany_Bormann_Kartenhaus_l_english.yml:TNO_Bormann_Kartenhaus_Card_LoyaltyBar_Base_ttd": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d3d7ac11d344",
+      "last_modified": "2026-11-13T11:55:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a2ddbb2e31f7"
     },
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": {
       "author": "person_001",
@@ -38710,6 +38974,18 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "64b0c365a87c"
+    },
+    "ledger_l_english.yml:LEDGER_TITLE": {
+      "approved_at": "2026-10-27T10:07:12",
+      "approved_by": "person_002",
+      "editor": null,
+      "en_hash": "1aa2f31ee7cc",
+      "last_modified": "2026-10-27T10:07:12",
+      "last_reviewed": "2026-10-27T10:07:12",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "72f4380fe0f0"
     },
     "politics_l_english.yml:COMMAND_POWER_CAP_ADD_ADVISOR": {
       "author": "person_001",
