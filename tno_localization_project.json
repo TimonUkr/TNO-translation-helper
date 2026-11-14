@@ -3994,6 +3994,16 @@
         "to": "approved"
       }
     ],
+    "TNO_Country_Info_Screen_l_english.yml:CountryInfo_Economic_Overview_IRE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T10:22:35",
+        "to": "translated"
+      }
+    ],
     "TNO_Country_Info_Screen_l_english.yml:GER_CountryInfo_Content_desc.9": [
       {
         "action": "переклад виправлено",
@@ -22719,6 +22729,16 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "da39a3ee5e6b"
+    },
+    "TNO_Country_Info_Screen_l_english.yml:CountryInfo_Economic_Overview_IRE": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "fa36f6063748",
+      "last_modified": "2026-11-14T10:22:35",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "58116717466e"
     },
     "TNO_Country_Info_Screen_l_english.yml:GER_CountryInfo_Content_desc.9": {
       "author": "person_002",
