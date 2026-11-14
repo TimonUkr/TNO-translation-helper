@@ -7,6 +7,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "TNO_Country_Info_Screen_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_Cultures_l_english.yml": {
       "editors": [],
       "last_checked": null,
@@ -43,6 +50,13 @@
       "translators": []
     },
     "TNO_Germany_Bormann_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
+    "TNO_Japan_PMKaya_l_english.yml": {
       "editors": [],
       "last_checked": null,
       "manual_status": null,
@@ -3987,6 +4001,26 @@
         "to": "approved"
       }
     ],
+    "TNO_Country_Info_Screen_l_english.yml:CountryInfo_Economic_Overview_IRE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T10:22:35",
+        "to": "translated"
+      }
+    ],
+    "TNO_Country_Info_Screen_l_english.yml:GER_CountryInfo_Content_desc.9": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T10:21:24",
+        "to": "translated"
+      }
+    ],
     "TNO_Cultures_l_english.yml:IBR_independent_basque": [
       {
         "action": "перекладено",
@@ -4369,6 +4403,40 @@
         "note": "",
         "t": "2026-10-06T12:50:36",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:04:57",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:04:59",
+        "to": "approved"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV.4.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:23:20",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:23:24",
+        "to": "approved"
       }
     ],
     "TNO_Free_Aviators_l_english.yml:FAV_deployment_category_desc": [
@@ -4378,6 +4446,148 @@
         "from": "translated",
         "note": "",
         "t": "2026-10-06T10:28:50",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_liberalism_party": [
+      {
+        "action": "перекладено",
+        "by": "person_002",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-14T22:23:56",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_pilots_prioritized": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:30:35",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:30:36",
+        "to": "approved"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_5_advanced_aircraft_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:26:45",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_5_basic_aircraft_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:26:39",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_advanced_aircraft_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:26:35",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_basic_aircraft_tt": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:26:23",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_production_category_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:26:04",
+        "to": "translated"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_training_category_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:27:19",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:27:22",
+        "to": "approved"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_tutorial_category_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:25:24",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:25:26",
+        "to": "approved"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:FAV_tutorial_open": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:30:17",
+        "to": "translated"
+      },
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:30:20",
+        "to": "review"
+      }
+    ],
+    "TNO_Free_Aviators_l_english.yml:POLITICS_YEVDOKIA_BOCHAROVA_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:24:24",
         "to": "translated"
       }
     ],
@@ -4749,6 +4959,24 @@
         "note": "",
         "t": "2026-11-13T18:35:36",
         "to": "translated"
+      }
+    ],
+    "TNO_Japan_PMKaya_l_english.yml:JAP_reach_out_to_farmers_desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:02:48",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:02:49",
+        "to": "approved"
       }
     ],
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": [
@@ -19641,6 +19869,14 @@
         "note": "",
         "t": "2026-11-09T19:13:03",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:40:45",
+        "to": "translated"
       }
     ],
     "buildings_l_english.yml:missile_silo_desc": [
@@ -22743,6 +22979,26 @@
       "translator": null,
       "ua_hash": "da39a3ee5e6b"
     },
+    "TNO_Country_Info_Screen_l_english.yml:CountryInfo_Economic_Overview_IRE": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "fa36f6063748",
+      "last_modified": "2026-11-14T10:22:35",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "58116717466e"
+    },
+    "TNO_Country_Info_Screen_l_english.yml:GER_CountryInfo_Content_desc.9": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "afcc6a4516dd",
+      "last_modified": "2026-11-14T10:21:24",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b16e5fd82822"
+    },
     "TNO_Cultures_l_english.yml:IBR_independent_basque": {
       "author": "person_001",
       "editor": null,
@@ -23054,14 +23310,30 @@
       "ua_hash": "5758de01c81c"
     },
     "TNO_Free_Aviators_l_english.yml:FAV.3.desc": {
+      "approved_at": "2026-11-14T22:04:59",
+      "approved_by": "person_002",
       "author": "person_002",
       "editor": null,
       "en_hash": "219c978c4c8c",
-      "last_modified": "2026-10-06T12:50:36",
-      "last_reviewed": null,
-      "status": "translated",
+      "last_modified": "2026-11-14T22:04:59",
+      "last_reviewed": "2026-11-14T22:04:59",
+      "reviewed_by": "person_002",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "7bce140c50bc"
+      "ua_hash": "5dfdcefef551"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV.4.desc": {
+      "approved_at": "2026-11-14T22:23:24",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "63a905033b5a",
+      "last_modified": "2026-11-14T22:23:24",
+      "last_reviewed": "2026-11-14T22:23:24",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "7c2cfd41a6b9"
     },
     "TNO_Free_Aviators_l_english.yml:FAV_deployment_category_desc": {
       "author": "person_002",
@@ -23072,6 +23344,125 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "cdeeff6fcee0"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_liberalism_party": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "eb8143c6759b",
+      "last_modified": "2026-11-14T22:23:56",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6f2e6711559a"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_pilots_prioritized": {
+      "approved_at": "2026-11-14T22:30:36",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e3ec6d877437",
+      "last_modified": "2026-11-14T22:30:36",
+      "last_reviewed": "2026-11-14T22:30:36",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "47c3b08a8a1d"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_5_advanced_aircraft_tt": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "484a2367071f",
+      "last_modified": "2026-11-14T22:26:45",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4016f380e804"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_5_basic_aircraft_tt": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "8fee2a8bba5f",
+      "last_modified": "2026-11-14T22:26:39",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "b84d2fd8a681"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_advanced_aircraft_tt": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "8063acbde213",
+      "last_modified": "2026-11-14T22:26:35",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "677a263a94b0"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_produce_basic_aircraft_tt": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "35122514244d",
+      "last_modified": "2026-11-14T22:26:23",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "84c4f4684926"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_production_category_desc": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "1e18b4d43cda",
+      "last_modified": "2026-11-14T22:26:04",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "dbfbd799d792"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_training_category_desc": {
+      "approved_at": "2026-11-14T22:27:22",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4a8ac70a1102",
+      "last_modified": "2026-11-14T22:27:22",
+      "last_reviewed": "2026-11-14T22:27:22",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "781c0e608afe"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_tutorial_category_desc": {
+      "approved_at": "2026-11-14T22:25:26",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "56992406a3e9",
+      "last_modified": "2026-11-14T22:25:26",
+      "last_reviewed": "2026-11-14T22:25:26",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a2947756d95e"
+    },
+    "TNO_Free_Aviators_l_english.yml:FAV_tutorial_open": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "042bafeea4e7",
+      "last_modified": "2026-11-14T22:30:20",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "0cd7ef769c14"
+    },
+    "TNO_Free_Aviators_l_english.yml:POLITICS_YEVDOKIA_BOCHAROVA_DESC": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "facdbf35b706",
+      "last_modified": "2026-11-14T22:24:24",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "637485c4f633"
     },
     "TNO_Germany_Base_l_english.yml:GER_Albert_Speer_eco_desc": {
       "author": "person_002",
@@ -23442,6 +23833,19 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "5e9b8776c31c"
+    },
+    "TNO_Japan_PMKaya_l_english.yml:JAP_reach_out_to_farmers_desc": {
+      "approved_at": "2026-11-14T22:02:49",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "88a88fe02c54",
+      "last_modified": "2026-11-14T22:02:49",
+      "last_reviewed": "2026-11-14T22:02:49",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "4fec339c5c5a"
     },
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": {
       "author": "person_001",
@@ -37591,10 +37995,10 @@
       "ua_hash": "488b0a8b256b"
     },
     "buildings_l_english.yml:canal_kiel_desc": {
-      "author": "person_001",
+      "author": "person_002",
       "editor": null,
       "en_hash": "8f1f66c48631",
-      "last_modified": "2026-11-09T19:13:03",
+      "last_modified": "2026-11-14T22:40:45",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
