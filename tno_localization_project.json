@@ -19829,6 +19829,14 @@
         "note": "",
         "t": "2026-11-09T19:13:03",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-14T22:40:45",
+        "to": "translated"
       }
     ],
     "buildings_l_english.yml:missile_silo_desc": [
@@ -37907,10 +37915,10 @@
       "ua_hash": "488b0a8b256b"
     },
     "buildings_l_english.yml:canal_kiel_desc": {
-      "author": "person_001",
+      "author": "person_002",
       "editor": null,
       "en_hash": "8f1f66c48631",
-      "last_modified": "2026-11-09T19:13:03",
+      "last_modified": "2026-11-14T22:40:45",
       "last_reviewed": null,
       "status": "translated",
       "translator": null,
