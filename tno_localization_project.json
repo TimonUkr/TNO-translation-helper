@@ -4361,6 +4361,36 @@
         "to": "translated"
       }
     ],
+    "TNO_Cultures_l_english.yml:var_nationality.34": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T00:05:57",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.35": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T00:05:57",
+        "to": "translated"
+      }
+    ],
+    "TNO_Cultures_l_english.yml:var_nationality.36": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T00:05:57",
+        "to": "translated"
+      }
+    ],
     "TNO_Cultures_l_english.yml:var_nationality.4": [
       {
         "action": "переклад виправлено",
@@ -23340,6 +23370,36 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "793a9cdcfb60"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.34": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "76d330a4758d",
+      "last_modified": "2026-11-21T00:05:57",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a671402223c2"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.35": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f6f450b28642",
+      "last_modified": "2026-11-21T00:05:57",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "048d35a1be61"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.36": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "41fdac2af36a",
+      "last_modified": "2026-11-21T00:05:57",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "38e781a5d2a0"
     },
     "TNO_Cultures_l_english.yml:var_nationality.4": {
       "author": "person_001",
