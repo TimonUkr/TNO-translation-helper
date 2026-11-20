@@ -19947,6 +19947,22 @@
         "note": "",
         "t": "2026-11-09T19:13:03",
         "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-17T14:28:19",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-17T14:28:33",
+        "to": "approved"
       }
     ],
     "buildings_l_english.yml:thermoelectric_plant_desc": [
@@ -38105,14 +38121,17 @@
       "ua_hash": "325bfe3423c7"
     },
     "buildings_l_english.yml:rocket_site_desc": {
-      "author": "person_001",
+      "approved_at": "2026-11-17T14:28:33",
+      "approved_by": "person_002",
+      "author": "person_002",
       "editor": null,
       "en_hash": "6345f01c525b",
-      "last_modified": "2026-11-09T19:13:03",
-      "last_reviewed": null,
-      "status": "translated",
+      "last_modified": "2026-11-17T14:28:33",
+      "last_reviewed": "2026-11-17T14:28:33",
+      "reviewed_by": "person_002",
+      "status": "approved",
       "translator": null,
-      "ua_hash": "cb0f30068126"
+      "ua_hash": "23ba8970f0c4"
     },
     "buildings_l_english.yml:thermoelectric_plant_desc": {
       "author": "person_001",
