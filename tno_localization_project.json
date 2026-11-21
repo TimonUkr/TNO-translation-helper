@@ -31669,6 +31669,24 @@
         "to": "approved"
       }
     ],
+    "ideas_l_english.yml:henschel": [
+      {
+        "action": "відхилено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T21:34:43",
+        "to": "rejected"
+      },
+      {
+        "action": "відхилено",
+        "by": "person_002",
+        "from": "rejected",
+        "note": "Емоційна травма через назву",
+        "t": "2026-11-21T21:35:11",
+        "to": "rejected"
+      }
+    ],
     "ideas_l_english.yml:hermann_gortz": [
       {
         "action": "перекладено",
@@ -33999,6 +34017,24 @@
         "to": "approved"
       }
     ],
+    "ideas_l_english.yml:porsche": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T21:33:20",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T21:33:21",
+        "to": "approved"
+      }
+    ],
     "ideas_l_english.yml:pyotr_smirnov": [
       {
         "action": "перекладено",
@@ -34802,6 +34838,42 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-21T01:09:11",
+        "to": "approved"
+      }
+    ],
+    "ideas_l_english.yml:soviet_german_friendship": [
+      {
+        "action": "перекладено",
+        "by": "person_002",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-21T21:28:12",
+        "to": "translated"
+      },
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T21:28:13",
+        "to": "review"
+      }
+    ],
+    "ideas_l_english.yml:soviet_german_friendship_desc": [
+      {
+        "action": "перекладено",
+        "by": "person_002",
+        "from": "untranslated",
+        "note": "",
+        "t": "2026-11-21T21:32:24",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-21T21:32:40",
         "to": "approved"
       }
     ],
@@ -60618,6 +60690,17 @@
       "translator": null,
       "ua_hash": "17c5a5c0d9d0"
     },
+    "ideas_l_english.yml:henschel": {
+      "editor": null,
+      "en_hash": "b1584d3f2219",
+      "last_modified": "2026-11-21T21:35:11",
+      "last_reviewed": "2026-11-21T21:35:11",
+      "reject_reason": "Емоційна травма через назву",
+      "reviewed_by": "person_002",
+      "status": "rejected",
+      "translator": null,
+      "ua_hash": "b1584d3f2219"
+    },
     "ideas_l_english.yml:hermann_gortz": {
       "author": "person_002",
       "editor": null,
@@ -62210,6 +62293,19 @@
       "translator": null,
       "ua_hash": "74b14892f20b"
     },
+    "ideas_l_english.yml:porsche": {
+      "approved_at": "2026-11-21T21:33:21",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "532a0458c6c6",
+      "last_modified": "2026-11-21T21:33:21",
+      "last_reviewed": "2026-11-21T21:33:21",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "9049739ade55"
+    },
     "ideas_l_english.yml:pyotr_smirnov": {
       "author": "person_002",
       "editor": null,
@@ -62753,6 +62849,29 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "720714eb520f"
+    },
+    "ideas_l_english.yml:soviet_german_friendship": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "9b669c84b034",
+      "last_modified": "2026-11-21T21:28:13",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "155e30e73040"
+    },
+    "ideas_l_english.yml:soviet_german_friendship_desc": {
+      "approved_at": "2026-11-21T21:32:40",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "38a4c2f32a8f",
+      "last_modified": "2026-11-21T21:32:40",
+      "last_reviewed": "2026-11-21T21:32:40",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "0f727df26b81"
     },
     "ideas_l_english.yml:speer": {
       "approved_at": "2026-11-21T00:34:44",
@@ -64244,7 +64363,16 @@
       "ua_hash": "cec322139621"
     }
   },
-  "notes": {},
+  "notes": {
+    "ideas_l_english.yml:henschel": [
+      {
+        "author": "person_002",
+        "date": "2026-11-21T21:35:11",
+        "id": "note_001",
+        "text": "Відхилено: Емоційна травма через назву"
+      }
+    ]
+  },
   "people": [
     {
       "active": true,
