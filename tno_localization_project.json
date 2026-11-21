@@ -20399,6 +20399,258 @@
         "to": "translated"
       }
     ],
+    "constructions_l_english.yml:CANCEL_ALL_CONSTRUCTION": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:36",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:38",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CANCEL_CONSTRUCTION": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:20",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:22",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CANCEL_REPAIRS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:01",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:03",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_ALL_COMPLETE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:43:51",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:43:52",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_BUILDABLE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:03",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:04",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_DEMILITARIZED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:46:22",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:46:23",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_FOREIGN": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:44:13",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:44:14",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_IMPASSABLE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:22",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:23",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_MAXLEVEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:51",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:45:52",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_WATER": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:04",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:47:05",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_DECREASE_AMOUNT_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:15",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:16",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_EXPAND": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:56",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:58",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_HIGHEST_PRIORITY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:22",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:23",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_INCREASE_AMOUNT_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:57",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:59",
+        "to": "approved"
+      }
+    ],
     "constructions_l_english.yml:CONSTRUCTION_LOCATION_DESC": [
       {
         "action": "переклад виправлено",
@@ -20407,6 +20659,14 @@
         "note": "",
         "t": "2026-11-22T01:18:16",
         "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:18:38",
+        "to": "approved"
       }
     ],
     "constructions_l_english.yml:CONSTRUCTION_LOCATION_LABEL": [
@@ -20424,6 +20684,806 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-21T01:54:28",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_LOWEST_PRIORITY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:36",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:48:37",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MACRO_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:23:10",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:23:12",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MACRO_SELECTED_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:31",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:33",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_PROVINCE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:25",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:26",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_START": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:37",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:39",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_NO_ACCESS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:01",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:53:02",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_COASTAL_LOCKED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:16",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:21",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:02",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:04",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_FOREIGN_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:18",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:19",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_MAXLEVEL_BLOCKED_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:47",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:48",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_PROVINCE_LOCKED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:33",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:34",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_STATE_LOCKED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:47",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:49",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:03",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:50:04",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_REMOVE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:32",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:33",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_SHARED": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:48",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:49",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:07",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:51:09",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_WATER_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:43",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:52:44",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAXIMIZE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:28",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:49:30",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MAX_FACTORIES": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:22:39",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:22:41",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_MINIMIZE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:32:14",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:32:16",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_NEXT_COMPLETE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:43:33",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:43:34",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_PRIORITY_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:37",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:38",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_PRIORITY_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:17",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:18",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_PROGRESS_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:10",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:13",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_PROVINCE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:49",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:52",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_RAILWAY_NOT_SELECTED_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:12",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:14",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_RAILWAY_SELECTED_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:23:47",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:23:48",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_ALL_LEVELS_COMPLETE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:42:26",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:42:28",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_LEVEL_COMPLETE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:41:39",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:41:41",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_QUEUE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:40:08",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:40:09",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_QUEUE_SHARED_SLOTS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:41:20",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:41:23",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_RAILWAY_GUN": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:42:56",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:42:57",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_TYPE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:38:56",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:38:57",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_TYPE_SHARED_SLOTS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:40:39",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:40:41",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_STATE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:43",
+        "to": "translated"
+      },
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:24:45",
+        "to": "review"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TASK_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:05",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:06",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TASK_LABEL": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:18:44",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:18:46",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:33:08",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:33:09",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_QUEUE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:34:03",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:34:04",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:36:10",
+        "to": "translated"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:36:13",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:36:14",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:37:15",
+        "to": "translated"
+      },
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:37:17",
+        "to": "review"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION_QUEUE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:38:42",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:38:43",
+        "to": "approved"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_QUEUE": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:36:55",
+        "to": "translated"
+      },
+      {
+        "action": "відправлено на перевірку",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:36:57",
+        "to": "review"
+      }
+    ],
+    "constructions_l_english.yml:CONSTRUCTION_USED_FACTORIES": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:57",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:21:58",
         "to": "approved"
       }
     ],
@@ -52206,13 +53266,198 @@
       "translator": null,
       "ua_hash": "3bd1492e6e3b"
     },
+    "constructions_l_english.yml:CANCEL_ALL_CONSTRUCTION": {
+      "approved_at": "2026-11-22T01:47:38",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "08473e19c849",
+      "last_modified": "2026-11-22T01:47:38",
+      "last_reviewed": "2026-11-22T01:47:38",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "65c4d592e749"
+    },
+    "constructions_l_english.yml:CANCEL_CONSTRUCTION": {
+      "approved_at": "2026-11-22T01:47:22",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "668d476af0e2",
+      "last_modified": "2026-11-22T01:47:22",
+      "last_reviewed": "2026-11-22T01:47:22",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "218364a260d2"
+    },
+    "constructions_l_english.yml:CANCEL_REPAIRS": {
+      "approved_at": "2026-11-22T01:48:03",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "a540b39b6d55",
+      "last_modified": "2026-11-22T01:48:03",
+      "last_reviewed": "2026-11-22T01:48:03",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "e6184db4ce1d"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_ALL_COMPLETE": {
+      "approved_at": "2026-11-22T01:43:52",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "0a1466e97577",
+      "last_modified": "2026-11-22T01:43:52",
+      "last_reviewed": "2026-11-22T01:43:52",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "cc52f83da2ed"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_BUILDABLE": {
+      "approved_at": "2026-11-22T01:45:04",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "c9eea6529fad",
+      "last_modified": "2026-11-22T01:45:04",
+      "last_reviewed": "2026-11-22T01:45:04",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "4a4871b9f5f0"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_DEMILITARIZED": {
+      "approved_at": "2026-11-22T01:46:23",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "99608c541120",
+      "last_modified": "2026-11-22T01:46:23",
+      "last_reviewed": "2026-11-22T01:46:23",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2645f38d530e"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_FOREIGN": {
+      "approved_at": "2026-11-22T01:44:14",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "43f1c0282b57",
+      "last_modified": "2026-11-22T01:44:14",
+      "last_reviewed": "2026-11-22T01:44:14",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ce75291adba5"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_IMPASSABLE": {
+      "approved_at": "2026-11-22T01:45:23",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "9a652ea13410",
+      "last_modified": "2026-11-22T01:45:23",
+      "last_reviewed": "2026-11-22T01:45:23",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "75a7727323a1"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_MAXLEVEL": {
+      "approved_at": "2026-11-22T01:45:52",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "0b05ac1870d2",
+      "last_modified": "2026-11-22T01:45:52",
+      "last_reviewed": "2026-11-22T01:45:52",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ef69b733ff77"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_CHECK_WATER": {
+      "approved_at": "2026-11-22T01:47:05",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "95a10cf34537",
+      "last_modified": "2026-11-22T01:47:05",
+      "last_reviewed": "2026-11-22T01:47:05",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "62924882a1d1"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_DECREASE_AMOUNT_LABEL": {
+      "approved_at": "2026-11-22T01:49:16",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "544da38d76bf",
+      "last_modified": "2026-11-22T01:49:16",
+      "last_reviewed": "2026-11-22T01:49:16",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ea173ad1cae8"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_EXPAND": {
+      "approved_at": "2026-11-22T01:24:58",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "9869e506c38f",
+      "last_modified": "2026-11-22T01:24:58",
+      "last_reviewed": "2026-11-22T01:24:58",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "8fc2087cab65"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_HIGHEST_PRIORITY": {
+      "approved_at": "2026-11-22T01:48:23",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "13429c28bd82",
+      "last_modified": "2026-11-22T01:48:23",
+      "last_reviewed": "2026-11-22T01:48:23",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "616613a1b7c8"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_INCREASE_AMOUNT_LABEL": {
+      "approved_at": "2026-11-22T01:48:59",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "75a1078be87c",
+      "last_modified": "2026-11-22T01:48:59",
+      "last_reviewed": "2026-11-22T01:48:59",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "0c9969928d36"
+    },
     "constructions_l_english.yml:CONSTRUCTION_LOCATION_DESC": {
+      "approved_at": "2026-11-22T01:18:38",
+      "approved_by": "person_002",
       "author": "person_002",
       "editor": null,
       "en_hash": "bd7baab84a97",
-      "last_modified": "2026-11-22T01:18:16",
-      "last_reviewed": null,
-      "status": "translated",
+      "last_modified": "2026-11-22T01:18:38",
+      "last_reviewed": "2026-11-22T01:18:38",
+      "reviewed_by": "person_002",
+      "status": "approved",
       "translator": null,
       "ua_hash": "6800dc55c39e"
     },
@@ -52228,6 +53473,569 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "71bb846ce986"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_LOWEST_PRIORITY": {
+      "approved_at": "2026-11-22T01:48:37",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "857f18e7e4c4",
+      "last_modified": "2026-11-22T01:48:37",
+      "last_reviewed": "2026-11-22T01:48:37",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "f20cc24bf5bf"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MACRO_DESC": {
+      "approved_at": "2026-11-22T01:23:12",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f0fba2df1a91",
+      "last_modified": "2026-11-22T01:23:12",
+      "last_reviewed": "2026-11-22T01:23:12",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "cb0c990a458e"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MACRO_SELECTED_DESC": {
+      "approved_at": "2026-11-22T01:24:33",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "ee92169c8d59",
+      "last_modified": "2026-11-22T01:24:33",
+      "last_reviewed": "2026-11-22T01:24:33",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b72086e3f4bf"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_PROVINCE": {
+      "approved_at": "2026-11-22T01:53:26",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "cf0ffd7e42ff",
+      "last_modified": "2026-11-22T01:53:26",
+      "last_reviewed": "2026-11-22T01:53:26",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5fd99ca8ee48"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_START": {
+      "approved_at": "2026-11-22T01:53:39",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "6387409f4e40",
+      "last_modified": "2026-11-22T01:53:39",
+      "last_reviewed": "2026-11-22T01:53:39",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "94e1ad8be5db"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_BUILD_RAILWAY_NO_ACCESS": {
+      "approved_at": "2026-11-22T01:53:02",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d4df7a4bea18",
+      "last_modified": "2026-11-22T01:53:02",
+      "last_reviewed": "2026-11-22T01:53:02",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ec6cc256c478"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_COASTAL_LOCKED": {
+      "approved_at": "2026-11-22T01:50:21",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "166802a1ead9",
+      "last_modified": "2026-11-22T01:50:21",
+      "last_reviewed": "2026-11-22T01:50:21",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "bf40607ced98"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_DEMILITARIZED_BLOCKED_TOOLTIP": {
+      "approved_at": "2026-11-22T01:52:04",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "d0538e761d2a",
+      "last_modified": "2026-11-22T01:52:04",
+      "last_reviewed": "2026-11-22T01:52:04",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "82582d4c6e02"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_FOREIGN_TOOLTIP": {
+      "approved_at": "2026-11-22T01:52:19",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "ea8c81d9bef6",
+      "last_modified": "2026-11-22T01:52:19",
+      "last_reviewed": "2026-11-22T01:52:19",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "9f496bec01e0"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_MAXLEVEL_BLOCKED_TOOLTIP": {
+      "approved_at": "2026-11-22T01:51:48",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f1ac1f141e73",
+      "last_modified": "2026-11-22T01:51:48",
+      "last_reviewed": "2026-11-22T01:51:48",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "34599e331a0f"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_PROVINCE_LOCKED": {
+      "approved_at": "2026-11-22T01:50:34",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "87787afe911d",
+      "last_modified": "2026-11-22T01:50:34",
+      "last_reviewed": "2026-11-22T01:50:34",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "01f37218c808"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_STATE_LOCKED": {
+      "approved_at": "2026-11-22T01:50:49",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "6bb3e58f5736",
+      "last_modified": "2026-11-22T01:50:49",
+      "last_reviewed": "2026-11-22T01:50:49",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "4db618d52ad6"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP": {
+      "approved_at": "2026-11-22T01:50:04",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "47ce517f6305",
+      "last_modified": "2026-11-22T01:50:04",
+      "last_reviewed": "2026-11-22T01:50:04",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "54b981731990"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_REMOVE": {
+      "approved_at": "2026-11-22T01:51:33",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "85229b3bc3c6",
+      "last_modified": "2026-11-22T01:51:33",
+      "last_reviewed": "2026-11-22T01:51:33",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b32dd57fa2a9"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_SHARED": {
+      "approved_at": "2026-11-22T01:49:49",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "dddfb840eb4c",
+      "last_modified": "2026-11-22T01:49:49",
+      "last_reviewed": "2026-11-22T01:49:49",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d65d4c4d5a4f"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_TOOLTIP_TO_MAX_AMOUNT": {
+      "approved_at": "2026-11-22T01:51:09",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "69cb3344b4fa",
+      "last_modified": "2026-11-22T01:51:09",
+      "last_reviewed": "2026-11-22T01:51:09",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2fc5c5451708"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAPMODE_WATER_TOOLTIP": {
+      "approved_at": "2026-11-22T01:52:44",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "61174af4bd88",
+      "last_modified": "2026-11-22T01:52:44",
+      "last_reviewed": "2026-11-22T01:52:44",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "b3ec147a4e45"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAXIMIZE": {
+      "approved_at": "2026-11-22T01:49:30",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "10045469caaf",
+      "last_modified": "2026-11-22T01:49:30",
+      "last_reviewed": "2026-11-22T01:49:30",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d55eb8f86d71"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MAX_FACTORIES": {
+      "approved_at": "2026-11-22T01:22:41",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "870eb7f49f1a",
+      "last_modified": "2026-11-22T01:22:41",
+      "last_reviewed": "2026-11-22T01:22:41",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "69955599863c"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_MINIMIZE": {
+      "approved_at": "2026-11-22T01:32:16",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "1c5b768c8e72",
+      "last_modified": "2026-11-22T01:32:16",
+      "last_reviewed": "2026-11-22T01:32:16",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "0e700ea3d944"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_NEXT_COMPLETE": {
+      "approved_at": "2026-11-22T01:43:34",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "ee8dfa0e98e9",
+      "last_modified": "2026-11-22T01:43:34",
+      "last_reviewed": "2026-11-22T01:43:34",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "02e83af994ff"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_PRIORITY_DESC": {
+      "approved_at": "2026-11-22T01:21:38",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "66755811b237",
+      "last_modified": "2026-11-22T01:21:38",
+      "last_reviewed": "2026-11-22T01:21:38",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "01ebe81b9775"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_PRIORITY_LABEL": {
+      "approved_at": "2026-11-22T01:21:18",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "886cbff9d9df",
+      "last_modified": "2026-11-22T01:21:18",
+      "last_reviewed": "2026-11-22T01:21:18",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2c02170231e9"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_PROGRESS_LABEL": {
+      "approved_at": "2026-11-22T01:21:13",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "1b90271d66cf",
+      "last_modified": "2026-11-22T01:21:13",
+      "last_reviewed": "2026-11-22T01:21:13",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5fa7165b3fa9"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_PROVINCE": {
+      "approved_at": "2026-11-22T01:24:52",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f5e192238ab2",
+      "last_modified": "2026-11-22T01:24:52",
+      "last_reviewed": "2026-11-22T01:24:52",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "49419e4064fd"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_RAILWAY_NOT_SELECTED_DESC": {
+      "approved_at": "2026-11-22T01:24:14",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "86d8384f46ae",
+      "last_modified": "2026-11-22T01:24:14",
+      "last_reviewed": "2026-11-22T01:24:14",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5ae5598c715d"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_RAILWAY_SELECTED_DESC": {
+      "approved_at": "2026-11-22T01:23:48",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "01eacb95eabe",
+      "last_modified": "2026-11-22T01:23:48",
+      "last_reviewed": "2026-11-22T01:23:48",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "67c528d3bd7e"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_ALL_LEVELS_COMPLETE": {
+      "approved_at": "2026-11-22T01:42:28",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "66dc540f6d8d",
+      "last_modified": "2026-11-22T01:42:28",
+      "last_reviewed": "2026-11-22T01:42:28",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "206b2c0a19f8"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_LEVEL_COMPLETE": {
+      "approved_at": "2026-11-22T01:41:41",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "955e64d36d3c",
+      "last_modified": "2026-11-22T01:41:41",
+      "last_reviewed": "2026-11-22T01:41:41",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "35f84750ed5c"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_QUEUE": {
+      "approved_at": "2026-11-22T01:40:09",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "7fc9d75b51f1",
+      "last_modified": "2026-11-22T01:40:09",
+      "last_reviewed": "2026-11-22T01:40:09",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d19f0bdd4519"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_QUEUE_SHARED_SLOTS": {
+      "approved_at": "2026-11-22T01:41:23",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "b1b4d64dfec4",
+      "last_modified": "2026-11-22T01:41:23",
+      "last_reviewed": "2026-11-22T01:41:23",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "8fcc38ca09f2"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_RAILWAY_GUN": {
+      "approved_at": "2026-11-22T01:42:57",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f5ce330e7cd2",
+      "last_modified": "2026-11-22T01:42:57",
+      "last_reviewed": "2026-11-22T01:42:57",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "21c483caae2f"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_TYPE": {
+      "approved_at": "2026-11-22T01:38:57",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "e6f52314a463",
+      "last_modified": "2026-11-22T01:38:57",
+      "last_reviewed": "2026-11-22T01:38:57",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "f0115e5e40f4"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_REPAIR_TYPE_SHARED_SLOTS": {
+      "approved_at": "2026-11-22T01:40:41",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "c9c2b823e96b",
+      "last_modified": "2026-11-22T01:40:41",
+      "last_reviewed": "2026-11-22T01:40:41",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ba194d50b0e6"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_STATE": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "a72502067518",
+      "last_modified": "2026-11-22T01:24:45",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "ecf9896fbdf2"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TASK_DESC": {
+      "approved_at": "2026-11-22T01:21:06",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "7c1d0c277a7e",
+      "last_modified": "2026-11-22T01:21:06",
+      "last_reviewed": "2026-11-22T01:21:06",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "17f03691537c"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TASK_LABEL": {
+      "approved_at": "2026-11-22T01:18:46",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "7bb0ddf9221c",
+      "last_modified": "2026-11-22T01:18:46",
+      "last_reviewed": "2026-11-22T01:18:46",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5a2ec5eaf0a1"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE": {
+      "approved_at": "2026-11-22T01:33:09",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "693f5a42b3f7",
+      "last_modified": "2026-11-22T01:33:09",
+      "last_reviewed": "2026-11-22T01:33:09",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a199604ee8f0"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_QUEUE": {
+      "approved_at": "2026-11-22T01:34:04",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "31d96a502a84",
+      "last_modified": "2026-11-22T01:34:04",
+      "last_reviewed": "2026-11-22T01:34:04",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "7488bfb8a32e"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS": {
+      "approved_at": "2026-11-22T01:36:14",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "44727e469460",
+      "last_modified": "2026-11-22T01:36:14",
+      "last_reviewed": "2026-11-22T01:36:14",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "19f62c79db04"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "def005d3e1cf",
+      "last_modified": "2026-11-22T01:37:17",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "6459123386f9"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_CONVERSION_QUEUE": {
+      "approved_at": "2026-11-22T01:38:43",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "cc3c470664a1",
+      "last_modified": "2026-11-22T01:38:43",
+      "last_reviewed": "2026-11-22T01:38:43",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "d447cbe1c951"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_TYPE_SHARED_SLOTS_QUEUE": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4ec8f07984aa",
+      "last_modified": "2026-11-22T01:36:57",
+      "last_reviewed": null,
+      "status": "review",
+      "translator": null,
+      "ua_hash": "059e9f3fa726"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_USED_FACTORIES": {
+      "approved_at": "2026-11-22T01:21:58",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "f314423748d7",
+      "last_modified": "2026-11-22T01:21:58",
+      "last_reviewed": "2026-11-22T01:21:58",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "720dc5106ae4"
     },
     "constructions_l_english.yml:CONSTRUCTION_VIEW_LABLE": {
       "approved_at": "2026-11-21T01:54:08",
