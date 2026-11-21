@@ -20369,6 +20369,16 @@
         "to": "translated"
       }
     ],
+    "constructions_l_english.yml:CONSTRUCTION_LOCATION_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T01:18:16",
+        "to": "translated"
+      }
+    ],
     "constructions_l_english.yml:CONSTRUCTION_LOCATION_LABEL": [
       {
         "action": "переклад виправлено",
@@ -52135,6 +52145,16 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "3bd1492e6e3b"
+    },
+    "constructions_l_english.yml:CONSTRUCTION_LOCATION_DESC": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "bd7baab84a97",
+      "last_modified": "2026-11-22T01:18:16",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6800dc55c39e"
     },
     "constructions_l_english.yml:CONSTRUCTION_LOCATION_LABEL": {
       "approved_at": "2026-11-21T01:54:28",
