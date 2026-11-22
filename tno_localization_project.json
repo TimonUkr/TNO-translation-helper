@@ -3966,6 +3966,14 @@
         "note": "",
         "t": "2026-11-13T18:30:10",
         "to": "approved"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-11-22T21:09:22",
+        "to": "translated"
       }
     ],
     "TNO_Algeria_l_english.yml:ALG_DEF": [
@@ -3976,6 +3984,14 @@
         "note": "",
         "t": "2026-11-13T18:29:46",
         "to": "approved"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-11-22T21:09:22",
+        "to": "translated"
       }
     ],
     "TNO_Algeria_l_english.yml:ALG_french": [
@@ -3996,6 +4012,14 @@
         "note": "",
         "t": "2026-11-13T18:30:17",
         "to": "approved"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-11-22T21:09:22",
+        "to": "translated"
       }
     ],
     "TNO_Algeria_l_english.yml:ALG_french_DEF": [
@@ -4006,6 +4030,14 @@
         "note": "",
         "t": "2026-11-13T18:30:15",
         "to": "approved"
+      },
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "stale",
+        "note": "",
+        "t": "2026-11-22T21:09:22",
+        "to": "translated"
       }
     ],
     "TNO_Algeria_l_english.yml:ALG_native_despotism": [
@@ -4026,6 +4058,16 @@
         "note": "",
         "t": "2026-11-13T18:30:20",
         "to": "approved"
+      }
+    ],
+    "TNO_Algeria_l_english.yml:ALG_native_despotismy_ADJ": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:09:22",
+        "to": "translated"
       }
     ],
     "TNO_Algeria_l_english.yml:Algeria_Skeleton.9.a": [
@@ -15921,6 +15963,506 @@
         "from": "untranslated",
         "note": "",
         "t": "2026-10-24T18:43:31",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Azerbaijan_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Azerbaijan_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Belarus_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Belarus_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Caucasus_Mountain_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Caucasus_Mountain_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Chernihiv_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Chernihiv_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Crimea_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Crimea_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Estonia_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Estonia_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Galicia_Ukraine_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Galicia_Ukraine_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Georgia_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Georgia_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Kalmykia_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Kalmykia_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Kursk_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Kyiv_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Kyiv_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Latvia_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Latvia_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Lithuania_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Lithuania_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Moscow_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Penza_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_Short": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Saratov_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Saratov_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Stavropol_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Stavropol_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Tula_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Tula_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Volgograd_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Volgograd_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Volyn_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Volyn_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Voronezh_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Voronezh_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_Short": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yekaterinoslav_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yekaterinoslav_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yuzivka_Short_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
+        "to": "translated"
+      }
+    ],
+    "admin_title_l_english.yml:Assoc_Region_Yuzivka_ger": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T21:01:36",
         "to": "translated"
       }
     ],
@@ -37865,28 +38407,24 @@
       "ua_hash": "16248241760e"
     },
     "TNO_Algeria_l_english.yml:ALG_ADJ": {
-      "approved_at": "2026-11-13T18:30:10",
-      "approved_by": "person_002",
+      "author": "person_001",
       "editor": null,
-      "en_hash": "6d7d73c8600f",
-      "last_modified": "2026-11-13T18:30:10",
+      "en_hash": "7f57da0d71ed",
+      "last_modified": "2026-11-22T21:09:22",
       "last_reviewed": "2026-11-13T18:30:10",
-      "reviewed_by": "person_002",
-      "status": "approved",
+      "status": "translated",
       "translator": null,
-      "ua_hash": "6d7d73c8600f"
+      "ua_hash": "e33c7daa81b1"
     },
     "TNO_Algeria_l_english.yml:ALG_DEF": {
-      "approved_at": "2026-11-13T18:29:46",
-      "approved_by": "person_002",
+      "author": "person_001",
       "editor": null,
-      "en_hash": "1e23114f0ed9",
-      "last_modified": "2026-11-13T18:29:46",
+      "en_hash": "8afca492deaf",
+      "last_modified": "2026-11-22T21:09:22",
       "last_reviewed": "2026-11-13T18:29:46",
-      "reviewed_by": "person_002",
-      "status": "approved",
+      "status": "translated",
       "translator": null,
-      "ua_hash": "1e23114f0ed9"
+      "ua_hash": "274a025019aa"
     },
     "TNO_Algeria_l_english.yml:ALG_french": {
       "approved_at": "2026-11-13T18:30:12",
@@ -37901,28 +38439,24 @@
       "ua_hash": "16248241760e"
     },
     "TNO_Algeria_l_english.yml:ALG_french_ADJ": {
-      "approved_at": "2026-11-13T18:30:17",
-      "approved_by": "person_002",
+      "author": "person_001",
       "editor": null,
-      "en_hash": "db50055215a6",
-      "last_modified": "2026-11-13T18:30:17",
+      "en_hash": "44389f6a466e",
+      "last_modified": "2026-11-22T21:09:22",
       "last_reviewed": "2026-11-13T18:30:17",
-      "reviewed_by": "person_002",
-      "status": "approved",
+      "status": "translated",
       "translator": null,
-      "ua_hash": "db50055215a6"
+      "ua_hash": "4704a9b1bb63"
     },
     "TNO_Algeria_l_english.yml:ALG_french_DEF": {
-      "approved_at": "2026-11-13T18:30:15",
-      "approved_by": "person_002",
+      "author": "person_001",
       "editor": null,
-      "en_hash": "1e23114f0ed9",
-      "last_modified": "2026-11-13T18:30:15",
+      "en_hash": "8afca492deaf",
+      "last_modified": "2026-11-22T21:09:22",
       "last_reviewed": "2026-11-13T18:30:15",
-      "reviewed_by": "person_002",
-      "status": "approved",
+      "status": "translated",
       "translator": null,
-      "ua_hash": "1e23114f0ed9"
+      "ua_hash": "274a025019aa"
     },
     "TNO_Algeria_l_english.yml:ALG_native_despotism": {
       "approved_at": "2026-11-13T18:30:18",
@@ -37947,6 +38481,16 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "08d49bb50137"
+    },
+    "TNO_Algeria_l_english.yml:ALG_native_despotismy_ADJ": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b414f15c6996",
+      "last_modified": "2026-11-22T21:09:22",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3a46273e452b"
     },
     "TNO_Algeria_l_english.yml:Algeria_Skeleton.9.a": {
       "approved_at": "2026-11-13T18:28:54",
@@ -49728,6 +50272,506 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "b858cb282617"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Azerbaijan_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "177b5ca8b503",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a1e2ff374de2"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Azerbaijan_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "b0df02487930",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7b5244a6aaaf"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Belarus_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "07c1d2ce5fd7",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e06b823e0608"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Belarus_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2f0c211a13a2",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e1451b964c47"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Caucasus_Mountain_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "21860a4ded1b",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "4bdfb74c9a8d"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Caucasus_Mountain_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a5cb83eabfd1",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a0078f5c11d7"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Chernihiv_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7e5fe65279df",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6149477ce6d5"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Chernihiv_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "9a1c9ace0f68",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "56d0097bfe15"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Crimea_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f9fc0c940270",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "40ac725d0ed0"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Crimea_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "77d83b0f79c5",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "acbe2bdc5a45"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Estonia_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e2e7b23b59ce",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "96d3ffcfdfe9"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Estonia_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "03fd2bafde2f",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "aaaa33ed73b3"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Galicia_Ukraine_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "6d724bcfa22e",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8f1bac0a8b2a"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Galicia_Ukraine_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ad12ce6d6dad",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "155581758f8c"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Georgia_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "98d5c3a40cd0",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3a339555dcfd"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Georgia_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "c5815ee6724e",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "0bf9dac65067"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Kalmykia_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "84cb014384ca",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7cdbe1a7922d"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Kalmykia_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e6a5166e6cbc",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "6cb0f274ae43"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Kursk_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "09acfecdd920",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8d13fe324ac8"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Kyiv_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2217cb9225a6",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ecad7f6b2c66"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Kyiv_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "69f5ece939af",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "bf158b760ce4"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Latvia_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dda4293d5bcd",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "721b65c0330f"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Latvia_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4319186c7583",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "30fcbd87faf6"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Lithuania_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0a39b3b8628b",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "09e2c0f58b6f"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Lithuania_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "796932219de6",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "25324f21d8f4"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Moscow_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "567cfe8722c0",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f812c750e26d"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Penza_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "5737a1c5aadc",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "f35235f32f29"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_Short": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "57682127c14a",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "fcac85c18e3f"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3530b7c440af",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "223c69fd85d8"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Saint_Petersburg_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "7af69f2a24e2",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "87938f348906"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Saratov_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "bec11a35c45e",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "43dd98ad16a4"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Saratov_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "57130b42751d",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e7847f01240b"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Stavropol_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "20220c7848eb",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "51ade6977b73"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Stavropol_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "76e1fe7a3b54",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7c9064939f31"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Tula_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3cde4ed803fd",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "43c5ccc3135e"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Tula_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0adf928d48ce",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ca0247c79bd5"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Volgograd_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "befa64e5a58e",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "998587445b42"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Volgograd_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "82d9a8cbaeaa",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "98eb0f761a35"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Volyn_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "4995fc2aa434",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "df9613b956f8"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Volyn_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1374609a8fd9",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "3f040b39f1c2"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Voronezh_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "e56d6979d4cb",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "e7a824e01802"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Voronezh_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "87e95bb15fca",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ea4363a2776a"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "1b91787e5aad",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "19704fad9a12"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_Short": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "81da13133e59",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "c9167e6a3a2d"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "2f6af8588b32",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a2e7f3d1b374"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yaroslavl_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "df06439cf952",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ef9e181801c2"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yekaterinoslav_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "3494afb30bee",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "ce4265b9221d"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yekaterinoslav_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "121a53a1c510",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "dc92755bb538"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yuzivka_Short_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "ecffd66b4aba",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "db79ba6c17fd"
+    },
+    "admin_title_l_english.yml:Assoc_Region_Yuzivka_ger": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "cf867c58d0a7",
+      "last_modified": "2026-11-22T21:01:36",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9108148ba231"
     },
     "admin_title_l_english.yml:adjust_sub_admin_title_tt": {
       "author": "person_001",
