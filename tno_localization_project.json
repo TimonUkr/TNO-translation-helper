@@ -63,6 +63,13 @@
       "technical_state": "unknown",
       "translators": []
     },
+    "TNO_West_Russia_l_english.yml": {
+      "editors": [],
+      "last_checked": null,
+      "manual_status": null,
+      "technical_state": "unknown",
+      "translators": []
+    },
     "TNO_victory_points_l_english.yml": {
       "editors": [
         "person_001"
@@ -5061,6 +5068,24 @@
         "to": "translated"
       }
     ],
+    "TNO_Germany_Bormann_l_english.yml:bormann.164.desc": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T02:03:34",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T02:03:35",
+        "to": "approved"
+      }
+    ],
     "TNO_Germany_Bormann_l_english.yml:bormann.8.d": [
       {
         "action": "переклад виправлено",
@@ -5087,6 +5112,26 @@
         "note": "",
         "t": "2026-11-14T22:02:49",
         "to": "approved"
+      }
+    ],
+    "TNO_West_Russia_l_english.yml:WRS_fascism_party": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T02:10:42",
+        "to": "translated"
+      }
+    ],
+    "TNO_West_Russia_l_english.yml:WRS_national_socialism_party": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_002",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-22T02:10:59",
+        "to": "translated"
       }
     ],
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": [
@@ -38840,6 +38885,19 @@
       "translator": null,
       "ua_hash": "fa2703884be9"
     },
+    "TNO_Germany_Bormann_l_english.yml:bormann.164.desc": {
+      "approved_at": "2026-11-22T02:03:35",
+      "approved_by": "person_002",
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "67a8249e4ef7",
+      "last_modified": "2026-11-22T02:03:35",
+      "last_reviewed": "2026-11-22T02:03:35",
+      "reviewed_by": "person_002",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "df47e5aab739"
+    },
     "TNO_Germany_Bormann_l_english.yml:bormann.8.d": {
       "author": "person_002",
       "editor": null,
@@ -38862,6 +38920,26 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "4fec339c5c5a"
+    },
+    "TNO_West_Russia_l_english.yml:WRS_fascism_party": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4a19a8721cd6",
+      "last_modified": "2026-11-22T02:10:42",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a99deea587d2"
+    },
+    "TNO_West_Russia_l_english.yml:WRS_national_socialism_party": {
+      "author": "person_002",
+      "editor": null,
+      "en_hash": "4a19a8721cd6",
+      "last_modified": "2026-11-22T02:10:59",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "a99deea587d2"
     },
     "TNO_victory_points_l_english.yml:VICTORY_POINTS_10001_ind": {
       "author": "person_001",
