@@ -22092,6 +22092,74 @@
         "to": "approved"
       }
     ],
+    "core_l_english.yml:KEYBIND": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:17",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:MENU_BAR_IRONMAN_PLAIN": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:12",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:NAVAL_BTN_REMOVE_REGIONS": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:05:25",
+        "to": "translated"
+      }
+    ],
+    "core_l_english.yml:NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:05:25",
+        "to": "translated"
+      },
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:05:27",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_DETECTION_DESC": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:35",
+        "to": "translated"
+      }
+    ],
+    "core_l_english.yml:PROGRESS_TOOLTIP": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:35",
+        "to": "translated"
+      }
+    ],
     "core_l_english.yml:RAILWAY_IN_COOLDOWN": [
       {
         "action": "переклад виправлено",
@@ -22182,6 +22250,16 @@
         "to": "approved"
       }
     ],
+    "core_l_english.yml:SAVEITEM_IRONMAN": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:41",
+        "to": "approved"
+      }
+    ],
     "core_l_english.yml:UNIT_BUTTON_EDIT_ACTION": [
       {
         "action": "перекладено",
@@ -22215,6 +22293,106 @@
         "from": "translated",
         "note": "",
         "t": "2026-11-13T18:39:46",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:arctic_water_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:00",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:blizzard_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:57",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:rain_heavy_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:53",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:rain_light_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:50",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:sandstorm_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:58",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:snow_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:03:54",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:water_deep_ocean_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:04",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:water_fjords_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:06",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:water_modifier_shark_infested_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:09",
+        "to": "approved"
+      }
+    ],
+    "core_l_english.yml:water_shallow_sea_icon": [
+      {
+        "action": "затверджено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-23T18:04:02",
         "to": "approved"
       }
     ],
@@ -55172,6 +55350,73 @@
       "translator": null,
       "ua_hash": "541cc9fd1a71"
     },
+    "core_l_english.yml:KEYBIND": {
+      "approved_at": "2026-11-23T18:04:17",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "a62f84c2c84d",
+      "last_modified": "2026-11-23T18:04:17",
+      "last_reviewed": "2026-11-23T18:04:17",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "2a4f284a1bca"
+    },
+    "core_l_english.yml:MENU_BAR_IRONMAN_PLAIN": {
+      "approved_at": "2026-11-23T18:04:12",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "147b12f5b44a",
+      "last_modified": "2026-11-23T18:04:12",
+      "last_reviewed": "2026-11-23T18:04:12",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "147b12f5b44a"
+    },
+    "core_l_english.yml:NAVAL_BTN_REMOVE_REGIONS": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "a6adddb7c11a",
+      "last_modified": "2026-11-23T18:05:25",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "7a46b3ead9bf"
+    },
+    "core_l_english.yml:NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY": {
+      "approved_at": "2026-11-23T18:05:27",
+      "approved_by": "person_001",
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "dfa38c96d199",
+      "last_modified": "2026-11-23T18:05:27",
+      "last_reviewed": "2026-11-23T18:05:27",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "dfa38c96d199"
+    },
+    "core_l_english.yml:NAVAL_MISSION_MISSED_REQUIREMENT_WARN_SURFACE_DETECTION_DESC": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "fc7c1a62e401",
+      "last_modified": "2026-11-23T18:04:35",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "8a449d5d6e8a"
+    },
+    "core_l_english.yml:PROGRESS_TOOLTIP": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "f52e661c5787",
+      "last_modified": "2026-11-23T18:04:35",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "660cf732a2a3"
+    },
     "core_l_english.yml:RAILWAY_IN_COOLDOWN": {
       "approved_at": "2026-11-13T18:42:16",
       "approved_by": "person_002",
@@ -55237,6 +55482,18 @@
       "translator": null,
       "ua_hash": "e9d623c3ce81"
     },
+    "core_l_english.yml:SAVEITEM_IRONMAN": {
+      "approved_at": "2026-11-23T18:03:41",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "f4d7e2cb5cac",
+      "last_modified": "2026-11-23T18:03:41",
+      "last_reviewed": "2026-11-23T18:03:41",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "f4d7e2cb5cac"
+    },
     "core_l_english.yml:UNIT_BUTTON_EDIT_ACTION": {
       "approved_at": "2026-11-21T00:19:01",
       "approved_by": "person_002",
@@ -55262,6 +55519,126 @@
       "status": "approved",
       "translator": null,
       "ua_hash": "100f8d2bd799"
+    },
+    "core_l_english.yml:arctic_water_icon": {
+      "approved_at": "2026-11-23T18:04:00",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "82a049f9eb8b",
+      "last_modified": "2026-11-23T18:04:00",
+      "last_reviewed": "2026-11-23T18:04:00",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "82a049f9eb8b"
+    },
+    "core_l_english.yml:blizzard_icon": {
+      "approved_at": "2026-11-23T18:03:57",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "a3915e9ff7b6",
+      "last_modified": "2026-11-23T18:03:57",
+      "last_reviewed": "2026-11-23T18:03:57",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a3915e9ff7b6"
+    },
+    "core_l_english.yml:rain_heavy_icon": {
+      "approved_at": "2026-11-23T18:03:53",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "fcb1a7b1900e",
+      "last_modified": "2026-11-23T18:03:53",
+      "last_reviewed": "2026-11-23T18:03:53",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "fcb1a7b1900e"
+    },
+    "core_l_english.yml:rain_light_icon": {
+      "approved_at": "2026-11-23T18:03:50",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "5bf791ca8c2c",
+      "last_modified": "2026-11-23T18:03:50",
+      "last_reviewed": "2026-11-23T18:03:50",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "5bf791ca8c2c"
+    },
+    "core_l_english.yml:sandstorm_icon": {
+      "approved_at": "2026-11-23T18:03:58",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "ba889c7d5bfa",
+      "last_modified": "2026-11-23T18:03:58",
+      "last_reviewed": "2026-11-23T18:03:58",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "ba889c7d5bfa"
+    },
+    "core_l_english.yml:snow_icon": {
+      "approved_at": "2026-11-23T18:03:54",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "c0d9977195e2",
+      "last_modified": "2026-11-23T18:03:54",
+      "last_reviewed": "2026-11-23T18:03:54",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c0d9977195e2"
+    },
+    "core_l_english.yml:water_deep_ocean_icon": {
+      "approved_at": "2026-11-23T18:04:04",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "a41b237df165",
+      "last_modified": "2026-11-23T18:04:04",
+      "last_reviewed": "2026-11-23T18:04:04",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "a41b237df165"
+    },
+    "core_l_english.yml:water_fjords_icon": {
+      "approved_at": "2026-11-23T18:04:06",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "87dedc92d137",
+      "last_modified": "2026-11-23T18:04:06",
+      "last_reviewed": "2026-11-23T18:04:06",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "87dedc92d137"
+    },
+    "core_l_english.yml:water_modifier_shark_infested_icon": {
+      "approved_at": "2026-11-23T18:04:09",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "c2d9b8feecee",
+      "last_modified": "2026-11-23T18:04:09",
+      "last_reviewed": "2026-11-23T18:04:09",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "c2d9b8feecee"
+    },
+    "core_l_english.yml:water_shallow_sea_icon": {
+      "approved_at": "2026-11-23T18:04:02",
+      "approved_by": "person_001",
+      "editor": null,
+      "en_hash": "af7b1e52c208",
+      "last_modified": "2026-11-23T18:04:02",
+      "last_reviewed": "2026-11-23T18:04:02",
+      "reviewed_by": "person_001",
+      "status": "approved",
+      "translator": null,
+      "ua_hash": "af7b1e52c208"
     },
     "deployment_l_english.yml:AIR_DEPLOYMENT": {
       "author": "person_001",
