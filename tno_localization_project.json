@@ -4552,6 +4552,16 @@
         "to": "translated"
       }
     ],
+    "TNO_Cultures_l_english.yml:var_nationality.66": [
+      {
+        "action": "переклад виправлено",
+        "by": "person_001",
+        "from": "translated",
+        "note": "",
+        "t": "2026-11-26T00:06:23",
+        "to": "translated"
+      }
+    ],
     "TNO_Cultures_l_english.yml:var_nationality.8": [
       {
         "action": "переклад виправлено",
@@ -39119,6 +39129,16 @@
       "status": "translated",
       "translator": null,
       "ua_hash": "765584b11ac2"
+    },
+    "TNO_Cultures_l_english.yml:var_nationality.66": {
+      "author": "person_001",
+      "editor": null,
+      "en_hash": "0829f153db40",
+      "last_modified": "2026-11-26T00:06:23",
+      "last_reviewed": null,
+      "status": "translated",
+      "translator": null,
+      "ua_hash": "9cd20dc355bd"
     },
     "TNO_Cultures_l_english.yml:var_nationality.8": {
       "author": "person_001",
